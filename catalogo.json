@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-10-03T06:30:13-03:00",
-    "atualizado_br": "03/10/2026 06:30:13",
+    "atualizado_em": "2026-10-03T07:00:14-03:00",
+    "atualizado_br": "03/10/2026 07:00:14",
     "origem": "site",
     "total": 151,
     "disponiveis": 35,
@@ -147,15 +147,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-bs145-15iil-i5-10th-8gb-ram-256gb-ssd-nvme-tela-156-fhd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD S145 - I5 10TH - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.502,00",
-            "preco_num": 2502,
-            "parcela_12x": "231,67",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-s145-i5-10th-8gb-ram-480gb-ssd-sata-tela-156-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO HP 250 G8 - I5 10TH - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
             "categoria": "notebooks",
             "preco_pix": "2.502,00",
@@ -165,6 +156,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-250-g8-i5-10th-8gb-ram-256gb-ssd-nvme-tela-156-hd-1"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD S145 - I5 10TH - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.502,00",
+            "preco_num": 2502,
+            "parcela_12x": "231,67",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-s145-i5-10th-8gb-ram-480gb-ssd-sata-tela-156-hd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO HP 240 G7 - I5 10TH - 8GB RAM - 256GB SSD NVME - TELA 14 HD",
             "categoria": "notebooks",
             "preco_pix": "2.475,00",
@@ -172,15 +172,6 @@
             "parcela_12x": "229,17",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-240-g7-i5-10th-8gb-ram-256gb-ssd-nvme-tela-14-hd-5"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 5567 - I5 7TH - RADEON R7 M440 2GB - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.429,10",
-            "preco_num": 2429.1,
-            "parcela_12x": "224,92",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5567-i5-7th-radeon-r7-m440-2gb-8gb-ram-480gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 3 15IML05 - I5 10TH - INTEL UHD GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
@@ -199,6 +190,15 @@
             "parcela_12x": "224,92",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3480-i7-7th-intel-hd-graphics-620-8gb-ram-240gb-ssd-sata-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 5567 - I5 7TH - RADEON R7 M440 2GB - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.429,10",
+            "preco_num": 2429.1,
+            "parcela_12x": "224,92",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5567-i5-7th-radeon-r7-m440-2gb-8gb-ram-480gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 3 15IML05 - I5 10TH - INTEL UHD GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
