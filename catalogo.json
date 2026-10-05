@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-10-05T06:30:13-03:00",
-    "atualizado_br": "05/10/2026 06:30:13",
+    "atualizado_em": "2026-10-05T07:00:13-03:00",
+    "atualizado_br": "05/10/2026 07:00:13",
     "origem": "site",
     "total": 150,
     "disponiveis": 34,
@@ -1218,6 +1218,15 @@
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-9020-i7-4th-8gb-ram-240gb-ssd-sata"
         },
         {
+            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020 MICRO - I3 4TH - 8GB RAM - 256GB SSD SATA - WINDOWS 10",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020-micro-i3-4th-8gb-ram-256gb-ssd-sata-windows-10"
+        },
+        {
             "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 3020 MICRO - I3 4TH - 8GB RAM - 240GB SSD SATA",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1225,6 +1234,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-3020-micro-i3-4th-8gb-ram-240gb-ssd-sata"
+        },
+        {
+            "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 3020 MICRO - I3 4TH - 8GB RAM - 240GB SSD SATA",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-3020-micro-i3-4th-8gb-ram-240gb-ssd-sata-1"
         },
         {
             "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020M - I3 4TH - 8GB RAM - 240GB SSD SATA",
@@ -1245,22 +1263,13 @@
             "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-3"
         },
         {
-            "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 3020 MICRO - I3 4TH - 8GB RAM - 240GB SSD SATA",
+            "nome": "COMPUTADOR SEMINOVO - AMD RYZEN 3 3200G - RADEON VEGA 8 - 16GB RAM - 250GB SSD SATA - WINDOWS 11",
             "categoria": "computadores",
             "preco_pix": null,
             "preco_num": null,
             "parcela_12x": null,
             "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-3020-micro-i3-4th-8gb-ram-240gb-ssd-sata-1"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020 MICRO - I3 4TH - 8GB RAM - 256GB SSD SATA - WINDOWS 10",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020-micro-i3-4th-8gb-ram-256gb-ssd-sata-windows-10"
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-amd-ryzen-3-3200g-radeon-vega-8-16gb-ram-250gb-ssd-sata-windows-11"
         },
         {
             "nome": "COMPUTADOR - INTEL I3 4TH - 8GB RAM - SSD 128GB",
@@ -1270,15 +1279,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/computador-intel-i3-4th-8gb-ram-ssd-128gb"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO - AMD RYZEN 3 3200G - RADEON VEGA 8 - 16GB RAM - 250GB SSD SATA - WINDOWS 11",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-amd-ryzen-3-3200g-radeon-vega-8-16gb-ram-250gb-ssd-sata-windows-11"
         },
         {
             "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 7020 - I7 4TH - 12GB RAM - 240GB SSD SATA",
