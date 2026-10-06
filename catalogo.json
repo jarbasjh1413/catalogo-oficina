@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-10-06T08:30:13-03:00",
-    "atualizado_br": "06/10/2026 08:30:13",
+    "atualizado_em": "2026-10-06T09:00:14-03:00",
+    "atualizado_br": "06/10/2026 09:00:14",
     "origem": "site",
     "total": 152,
-    "disponiveis": 39,
-    "esgotados": 113,
+    "disponiveis": 38,
+    "esgotados": 114,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -138,15 +138,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-3-15itl6-i5-11th-iris-xe-8gb-ram-256gb-ssd-nvme-tela-156-fhd-1"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD S145 - I5 10TH - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.502,00",
-            "preco_num": 2502,
-            "parcela_12x": "231,67",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-s145-i5-10th-8gb-ram-480gb-ssd-sata-tela-156-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO HP 250 G8 - I5 10TH - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
             "categoria": "notebooks",
             "preco_pix": "2.502,00",
@@ -156,6 +147,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-250-g8-i5-10th-8gb-ram-256gb-ssd-nvme-tela-156-hd-1"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD S145 - I5 10TH - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.502,00",
+            "preco_num": 2502,
+            "parcela_12x": "231,67",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-s145-i5-10th-8gb-ram-480gb-ssd-sata-tela-156-hd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO HP 240 G7 - I5 10TH - 8GB RAM - 256GB SSD NVME - TELA 14 HD",
             "categoria": "notebooks",
             "preco_pix": "2.475,00",
@@ -163,15 +163,6 @@
             "parcela_12x": "229,17",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-240-g7-i5-10th-8gb-ram-256gb-ssd-nvme-tela-14-hd-5"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 5567 - I5 7TH - RADEON R7 M440 2GB - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.429,10",
-            "preco_num": 2429.1,
-            "parcela_12x": "224,92",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5567-i5-7th-radeon-r7-m440-2gb-8gb-ram-480gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 3 15IML05 - I5 10TH - INTEL UHD GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
@@ -190,6 +181,15 @@
             "parcela_12x": "224,92",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3480-i7-7th-intel-hd-graphics-620-8gb-ram-240gb-ssd-sata-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 5567 - I5 7TH - RADEON R7 M440 2GB - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.429,10",
+            "preco_num": 2429.1,
+            "parcela_12x": "224,92",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5567-i5-7th-radeon-r7-m440-2gb-8gb-ram-480gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 3 15IML05 - I5 10TH - INTEL UHD GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
@@ -255,15 +255,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-a315-33-celeron-n3060-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE ES1-572 - I3 6TH - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.709,10",
-            "preco_num": 1709.1,
-            "parcela_12x": "158,25",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-es1-572-i3-6th-8gb-ram-240gb-ssd-sata-tela-156-hd-1"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 3 A315-53 - I3 8TH - INTEL UHD 620 - 8GB RAM - 120GB SSD SATA - TELA 15.6 HD",
             "categoria": "notebooks",
             "preco_pix": "1.665,00",
@@ -280,6 +271,15 @@
             "parcela_12x": "141,58",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-elitebook-820-i5-4th-8gb-ram-128gb-ssd-sata-tela-125-hd"
+        },
+        {
+            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020M - I3 4TH - 8GB RAM - 240GB SSD SATA",
+            "categoria": "computadores",
+            "preco_pix": "1.413,00",
+            "preco_num": 1413,
+            "parcela_12x": "130,83",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-5"
         },
         {
             "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 320M - I3 4TH - 8GB RAM - 240GB SSD SATA",
@@ -316,15 +316,6 @@
             "parcela_12x": "130,83",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-4"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020M - I3 4TH - 8GB RAM - 240GB SSD SATA",
-            "categoria": "computadores",
-            "preco_pix": "1.413,00",
-            "preco_num": 1413,
-            "parcela_12x": "130,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-5"
         },
         {
             "nome": "COMPUTADOR NOVO I3 4130 - 8GB DDR3 - PLACA MÃE H81 1150 - SSD SATA 128GB",
@@ -1011,6 +1002,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b118-celeron-n3450-4gb-ram-240gb-ssd-sata-32gb-emmc-tela-116-fhd-touch"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B118 - CELERON N3450 - 4GB RAM - 128GB SSD SATA + 32GB EMMC - TELA 11.6 FHD TOUCH",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b118-celeron-n3450-4gb-ram-128gb-ssd-sata-32gb-emmc-tela-116-fhd-touch"
+        },
+        {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1065,6 +1065,15 @@
             "link": "https://www.oficinainformaticars.com.br/computador-intel-i3-2120u-8gb-ram-ssd-240gb-200w-fonte"
         },
         {
+            "nome": "COMPUTADOR SEMINOVO POSITIVO MASTER D490 - I5 4TH - 8GB RAM - 120GB SSD SATA + 500GB HD",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-positivo-master-d490-i5-4th-8gb-ram-120gb-ssd-sata-500gb-hd"
+        },
+        {
             "nome": "DESKTOP SEMINOVO DELL INSPIRON 20 3052 – CELERON N3150 – 8GB RAM – 120GB SSD SATA – TELA 20″ HD",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1081,15 +1090,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/computador-lenovo-desktop-v530s-07icr-intel-i3-8100-8gb-ram-128gb-ssd"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO POSITIVO MASTER D490 - I5 4TH - 8GB RAM - 120GB SSD SATA + 500GB HD",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-positivo-master-d490-i5-4th-8gb-ram-120gb-ssd-sata-500gb-hd"
         },
         {
             "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 7010 - I5 3TH - 12GB RAM - 128GB SSD SATA + 500GB HD",
