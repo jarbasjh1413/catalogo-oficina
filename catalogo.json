@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-10-24T07:30:14-03:00",
-    "atualizado_br": "24/10/2026 07:30:14",
+    "atualizado_em": "2026-10-24T08:00:12-03:00",
+    "atualizado_br": "24/10/2026 08:00:12",
     "origem": "site",
     "total": 151,
     "disponiveis": 34,
@@ -201,15 +201,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-a515-51-i5-7th-8gb-ram-120gb-ssd-sata-tela-156-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 5 - AMD A12-9720P - RADEON R7 GRAPHICS - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.799,10",
-            "preco_num": 1799.1,
-            "parcela_12x": "166,58",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-5-amd-a12-9720p-radeon-r7-graphics-8gb-ram-240gb-ssd-sata-tela-156-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO ACER ASPIRE F5-573 - I5 6TH - 8GB RAM - 240GB SSD SATA - TELA 15.6 FHD",
             "categoria": "notebooks",
             "preco_pix": "1.799,10",
@@ -217,6 +208,15 @@
             "parcela_12x": "166,58",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-f5-573-i5-6th-8gb-ram-240gb-ssd-sata-tela-156-fhd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 5 - AMD A12-9720P - RADEON R7 GRAPHICS - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "1.799,10",
+            "preco_num": 1799.1,
+            "parcela_12x": "166,58",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-5-amd-a12-9720p-radeon-r7-graphics-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
