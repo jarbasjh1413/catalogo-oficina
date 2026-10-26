@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-10-26T12:30:14-03:00",
-    "atualizado_br": "26/10/2026 12:30:14",
+    "atualizado_em": "2026-10-26T13:00:13-03:00",
+    "atualizado_br": "26/10/2026 13:00:13",
     "origem": "site",
-    "total": 153,
-    "disponiveis": 39,
-    "esgotados": 114,
+    "total": 151,
+    "disponiveis": 44,
+    "esgotados": 107,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -93,6 +93,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-16gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO LENOVO V15 G2 ITL - I5 11TH - INTEL IRIS XE - 16GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": "2.961,00",
+            "preco_num": 2961,
+            "parcela_12x": "274,17",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-v15-g2-itl-i5-11th-intel-iris-xe-16gb-ram-256gb-ssd-nvme-tela-156-fhd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
             "categoria": "notebooks",
             "preco_pix": "2.925,00",
@@ -127,6 +136,24 @@
             "parcela_12x": "237,50",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-15-3511-i5-11th-iris-xe-8gb-ram-256gb-ssd-nvme-tela-156-fhd-4"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 15 3511 - I5 11TH - INTEL IRIS XE - 8GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": "2.565,00",
+            "preco_num": 2565,
+            "parcela_12x": "237,50",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-15-3511-i5-11th-intel-iris-xe-8gb-ram-256gb-ssd-nvme-tela-156-fhd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 320 - I7 7TH - GEFORCE 940MX 4GB - 16GB RAM - 240GB SSD SATA - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": "2.519,10",
+            "preco_num": 2519.1,
+            "parcela_12x": "233,25",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-320-i7-7th-geforce-940mx-4gb-16gb-ram-240gb-ssd-sata-tela-156-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3401 - I5 10TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
@@ -264,6 +291,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-5-amd-a12-9720p-radeon-r7-graphics-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 1 15AMN7 - RYZEN 3 7320U - RADEON 610M - 4GB RAM - 256GB SSD NVME - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "1.799,10",
+            "preco_num": 1799.1,
+            "parcela_12x": "166,58",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-1-15amn7-ryzen-3-7320u-radeon-610m-4gb-ram-256gb-ssd-nvme-tela-156-hd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
             "categoria": "notebooks",
             "preco_pix": "1.710,00",
@@ -334,6 +370,15 @@
             "parcela_12x": "129,17",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-110-14ibr-celeron-n3060-4gb-ram-128gb-ssd-sata-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE A315-33 - CELERON N3060 - 8GB RAM - 128GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "1.332,00",
+            "preco_num": 1332,
+            "parcela_12x": "123,33",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-a315-33-celeron-n3060-8gb-ram-128gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO VAIO VJF155 - PENTIUM 4415U - 8GB RAM - 120GB SSD SATA - TELA 15.6 HD",
@@ -531,24 +576,6 @@
             "preco_num": null,
             "parcela_12x": null,
             "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1767966499"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1767966505"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-3"
         },
         {
@@ -588,15 +615,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 120GB SSD SATA + 32GB EMMC - TELA 11.6 FHD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1767880726"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC + HD 500 - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
             "categoria": "notebooks",
             "preco_pix": null,
@@ -613,6 +631,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1766061207"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 120GB SSD SATA + 32GB EMMC - TELA 11.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1767880726"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 32GB EMMC + 500GB HD SATA - TELA 11.6 FHD",
@@ -642,6 +669,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-62gb-emmc-tela-133-fhd-touch-1"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO POSITIVO VISION C15 - CELERON N4020 - 4GB RAM - 128GB eMMC - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-positivo-vision-c15-celeron-n4020-4gb-ram-128gb-emmc-tela-156-hd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO ACER ASPIRE ES1-511 - CELERON N2840 - 8GB RAM - 120GB SSD SATA - TELA 15,6 HD",
             "categoria": "notebooks",
             "preco_pix": null,
@@ -669,13 +705,13 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-300e5m-celeron-7a-gen-4gb-ram-120gb-ssd-sata-tela-156-fhd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO POSITIVO VISION C15 - CELERON N4020 - 4GB RAM - 128GB eMMC - TELA 15.6 HD",
+            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 330-15IGM - CELERON N4000 - INTEL UHD GRAPHICS 600 - 8GB RAM - 240GB SSD SATA - TELA 15",
             "categoria": "notebooks",
             "preco_pix": null,
             "preco_num": null,
             "parcela_12x": null,
             "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-positivo-vision-c15-celeron-n4020-4gb-ram-128gb-emmc-tela-156-hd"
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-330-15igm-celeron-n4000-intel-uhd-graphics-600-8gb-ram-240gb-ssd-sata-tela-15"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 64GB EMMC - TELA 13.3″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
@@ -694,15 +730,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-e1-531-celeron-b820-8gb-ram-120gb-ssd-sata-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 330-15IGM - CELERON N4000 - INTEL UHD GRAPHICS 600 - 8GB RAM - 240GB SSD SATA - TELA 15",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-330-15igm-celeron-n4000-intel-uhd-graphics-600-8gb-ram-240gb-ssd-sata-tela-15"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC + HD 500 - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
@@ -732,15 +759,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-hd-500-tela-116-fhd-touch-2-em-1-vira-tablet-3"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC + HD 500 - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-hd-500-tela-116-fhd-touch-2-em-1-vira-tablet-2"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
             "categoria": "notebooks",
             "preco_pix": null,
@@ -750,13 +768,13 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1765991965"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD S145 - CELERON N4020 - 8GB RAM - 128GB NVME + 500GB HD - TELA 15.6 HD",
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC + HD 500 - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
             "categoria": "notebooks",
             "preco_pix": null,
             "preco_num": null,
             "parcela_12x": null,
             "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-s145-celeron-n4020-8gb-ram-128gb-nvme-500gb-hd-tela-156-hd"
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-hd-500-tela-116-fhd-touch-2-em-1-vira-tablet-2"
         },
         {
             "nome": "NOTEBOOK SEMINOVO SAMSUNG 370E - CELERON 3205U - 8GB RAM - 120GB SSD SATA + 500GB HD SATA - TELA 14 HD",
@@ -766,6 +784,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-370e-celeron-3205u-8gb-ram-120gb-ssd-sata-500gb-hd-sata-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD S145 - CELERON N4020 - 8GB RAM - 128GB NVME + 500GB HD - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-s145-celeron-n4020-8gb-ram-128gb-nvme-500gb-hd-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B118-RN - CELERON N3450 - 4GB RAM - 32GB eMMC + HD 500GB - TELA 11.6 HD TOUCH",
@@ -930,51 +957,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b118-celeron-n3350-4gb-ram-500gb-hd-64gb-emmc-tela-116-fhd-touch"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO LENOVO 100W - N100 - 4GB RAM - 120GB SSD NVME - TELA 11 HD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-100w-n100-4gb-ram-120gb-ssd-nvme-tela-11-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO SAMSUNG 550XDA - CELERON 6TH - 8GB RAM - 128GB SSD NVME + 500GB HD - TELA 15.6 FHD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-550xda-celeron-6th-8gb-ram-128gb-ssd-nvme-500gb-hd-tela-156-fhd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 31GB EMMC - TELA 13.3 FHD TOUCHSCREEN",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-31gb-emmc-tela-133-fhd-touchscreen"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 62GB EMMC - TELA 13.3 FHD TOUCH",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-62gb-emmc-tela-133-fhd-touch"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B - CELERON N3450 - 4GB RAM - 120GB SSD SATA & 32GB EMMC - TELA 11.6″ TOUCH",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b-celeron-n3450-4gb-ram-120gb-ssd-sata-32gb-emmc-tela-116-touch"
-        },
-        {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1029,6 +1011,15 @@
             "link": "https://www.oficinainformaticars.com.br/computador-intel-i3-2120u-8gb-ram-ssd-240gb-200w-fonte"
         },
         {
+            "nome": "COMPUTADOR SEMINOVO POSITIVO MASTER D490 - I5 4TH - 8GB RAM - 120GB SSD SATA + 500GB HD",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-positivo-master-d490-i5-4th-8gb-ram-120gb-ssd-sata-500gb-hd"
+        },
+        {
             "nome": "DESKTOP SEMINOVO DELL INSPIRON 20 3052 – CELERON N3150 – 8GB RAM – 120GB SSD SATA – TELA 20″ HD",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1045,15 +1036,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/computador-lenovo-desktop-v530s-07icr-intel-i3-8100-8gb-ram-128gb-ssd"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO POSITIVO MASTER D490 - I5 4TH - 8GB RAM - 120GB SSD SATA + 500GB HD",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-positivo-master-d490-i5-4th-8gb-ram-120gb-ssd-sata-500gb-hd"
         },
         {
             "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 7010 - I5 3TH - 12GB RAM - 128GB SSD SATA + 500GB HD",
