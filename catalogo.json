@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-10-26T14:30:14-03:00",
-    "atualizado_br": "26/10/2026 14:30:14",
+    "atualizado_em": "2026-10-26T15:00:13-03:00",
+    "atualizado_br": "26/10/2026 15:00:13",
     "origem": "site",
-    "total": 153,
+    "total": 152,
     "disponiveis": 42,
-    "esgotados": 111,
+    "esgotados": 110,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -462,13 +462,13 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b-celeron-n3450-4gb-ram-32gb-emmc-tela-116-hd-touch-1"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC - TELA 13.3″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
             "categoria": "notebooks",
             "preco_pix": null,
             "preco_num": null,
             "parcela_12x": null,
             "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1766521126"
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1767966499"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 32GB EMMC + 500GB HD SATA - TELA 11.6 FHD",
@@ -478,15 +478,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-4"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B - CELERON N3450 - 4GB RAM - 32GB EMMC - TELA 11.6″ HD TOUCH",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b-celeron-n3450-4gb-ram-32gb-emmc-tela-116-hd-touch"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B118-RN - CELERON N3450 - 4GB RAM - 32GB eMMC - TELA 11.6 HD TOUCH",
@@ -505,6 +496,24 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b118-rn-celeron-n3450-4gb-ram-32gb-emmc-tela-116-hd-touch"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B - CELERON N3450 - 4GB RAM - 32GB EMMC - TELA 11.6″ HD TOUCH",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b-celeron-n3450-4gb-ram-32gb-emmc-tela-116-hd-touch"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1767966505"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC - TELA 13.3″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
@@ -550,24 +559,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-8"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1767966499"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-32gb-emmc-tela-133-fhd-touch-2-em-1-vira-tablet-1767966505"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON - 4GB RAM - 32GB EMMC - TELA 11.6″ FHD TOUCH - 2 EM 1 (VIRA TABLET)",
@@ -1029,6 +1020,15 @@
             "link": "https://www.oficinainformaticars.com.br/computador-intel-i3-2120u-8gb-ram-ssd-240gb-200w-fonte"
         },
         {
+            "nome": "COMPUTADOR SEMINOVO POSITIVO MASTER D490 - I5 4TH - 8GB RAM - 120GB SSD SATA + 500GB HD",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-positivo-master-d490-i5-4th-8gb-ram-120gb-ssd-sata-500gb-hd"
+        },
+        {
             "nome": "DESKTOP SEMINOVO DELL INSPIRON 20 3052 – CELERON N3150 – 8GB RAM – 120GB SSD SATA – TELA 20″ HD",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1045,15 +1045,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/computador-lenovo-desktop-v530s-07icr-intel-i3-8100-8gb-ram-128gb-ssd"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO POSITIVO MASTER D490 - I5 4TH - 8GB RAM - 120GB SSD SATA + 500GB HD",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-positivo-master-d490-i5-4th-8gb-ram-120gb-ssd-sata-500gb-hd"
         },
         {
             "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 7010 - I5 3TH - 12GB RAM - 128GB SSD SATA + 500GB HD",
