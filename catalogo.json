@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-10-28T06:00:13-03:00",
-    "atualizado_br": "28/10/2026 06:00:13",
+    "atualizado_em": "2026-10-28T06:30:15-03:00",
+    "atualizado_br": "28/10/2026 06:30:15",
     "origem": "site",
     "total": 153,
     "disponiveis": 40,
@@ -147,15 +147,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5566-i7-7th-16gb-ram-480gb-ssd-sata-tela-156-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 3583 - I5 8TH - RADEON 520 2GB - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.385,00",
-            "preco_num": 2385,
-            "parcela_12x": "220,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-3583-i5-8th-radeon-520-2gb-8gb-ram-240gb-ssd-sata-tela-156-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3401 - I5 10TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
             "categoria": "notebooks",
             "preco_pix": "2.385,00",
@@ -163,6 +154,15 @@
             "parcela_12x": "220,83",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3401-i5-10th-8gb-ram-240gb-ssd-sata-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 3583 - I5 8TH - RADEON 520 2GB - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.385,00",
+            "preco_num": 2385,
+            "parcela_12x": "220,83",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-3583-i5-8th-radeon-520-2gb-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO HP PROBOOK 440 G3 - I7 6TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
@@ -201,15 +201,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5566-i7-7th-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO SAMSUNG EXPERT 300E5M - I5 7TH - INTEL HD 620 - 8GB RAM - SSD M.2 120GB + HD 1TB - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.295,00",
-            "preco_num": 2295,
-            "parcela_12x": "212,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-expert-300e5m-i5-7th-intel-hd-620-8gb-ram-ssd-m2-120gb-hd-1tb-tela-156-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 15-3567 - I5 7TH - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
             "categoria": "notebooks",
             "preco_pix": "2.295,00",
@@ -217,6 +208,15 @@
             "parcela_12x": "212,50",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-15-3567-i5-7th-8gb-ram-480gb-ssd-sata-tela-156-hd-1"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO SAMSUNG EXPERT 300E5M - I5 7TH - INTEL HD 620 - 8GB RAM - SSD M.2 120GB + HD 1TB - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.295,00",
+            "preco_num": 2295,
+            "parcela_12x": "212,50",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-expert-300e5m-i5-7th-intel-hd-620-8gb-ram-ssd-m2-120gb-hd-1tb-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 3 A315-510P - I3-N305 - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
@@ -255,15 +255,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3470-i5-6th-8gb-ram-120gb-ssd-sata-tela-14-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 5 - AMD A12-9720P - RADEON R7 GRAPHICS - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.799,10",
-            "preco_num": 1799.1,
-            "parcela_12x": "166,58",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-5-amd-a12-9720p-radeon-r7-graphics-8gb-ram-240gb-ssd-sata-tela-156-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO ACER ASPIRE F5-573 - I5 6TH - 8GB RAM - 240GB SSD SATA - TELA 15.6 FHD",
             "categoria": "notebooks",
             "preco_pix": "1.799,10",
@@ -271,6 +262,15 @@
             "parcela_12x": "166,58",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-f5-573-i5-6th-8gb-ram-240gb-ssd-sata-tela-156-fhd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 5 - AMD A12-9720P - RADEON R7 GRAPHICS - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "1.799,10",
+            "preco_num": 1799.1,
+            "parcela_12x": "166,58",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-5-amd-a12-9720p-radeon-r7-graphics-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 1 15AMN7 - RYZEN 3 7320U - RADEON 610M - 4GB RAM - 256GB SSD NVME - TELA 15.6 HD",
@@ -1029,6 +1029,15 @@
             "link": "https://www.oficinainformaticars.com.br/computador-intel-i3-2120u-8gb-ram-ssd-240gb-200w-fonte"
         },
         {
+            "nome": "COMPUTADOR SEMINOVO POSITIVO MASTER D490 - I5 4TH - 8GB RAM - 120GB SSD SATA + 500GB HD",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-positivo-master-d490-i5-4th-8gb-ram-120gb-ssd-sata-500gb-hd"
+        },
+        {
             "nome": "DESKTOP SEMINOVO DELL INSPIRON 20 3052 – CELERON N3150 – 8GB RAM – 120GB SSD SATA – TELA 20″ HD",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1045,15 +1054,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/computador-lenovo-desktop-v530s-07icr-intel-i3-8100-8gb-ram-128gb-ssd"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO POSITIVO MASTER D490 - I5 4TH - 8GB RAM - 120GB SSD SATA + 500GB HD",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-positivo-master-d490-i5-4th-8gb-ram-120gb-ssd-sata-500gb-hd"
         },
         {
             "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 7010 - I5 3TH - 12GB RAM - 128GB SSD SATA + 500GB HD",
@@ -1191,6 +1191,24 @@
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-9020-i7-4th-8gb-ram-240gb-ssd-sata"
         },
         {
+            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020 MICRO - I3 4TH - 8GB RAM - 256GB SSD SATA - WINDOWS 10",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020-micro-i3-4th-8gb-ram-256gb-ssd-sata-windows-10"
+        },
+        {
+            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020M - I3 4TH - 8GB RAM - 240GB SSD SATA",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-2"
+        },
+        {
             "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 3020 MICRO - I3 4TH - 8GB RAM - 240GB SSD SATA",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1198,6 +1216,42 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-3020-micro-i3-4th-8gb-ram-240gb-ssd-sata"
+        },
+        {
+            "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 3020 MICRO - I3 4TH - 8GB RAM - 240GB SSD SATA",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-3020-micro-i3-4th-8gb-ram-240gb-ssd-sata-1"
+        },
+        {
+            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020M - I3 4TH - 8GB RAM - 240GB SSD SATA",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-4"
+        },
+        {
+            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 320M - I3 4TH - 8GB RAM - 240GB SSD SATA",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-320m-i3-4th-8gb-ram-240gb-ssd-sata"
+        },
+        {
+            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020M - I3 4TH - 8GB RAM - 240GB SSD SATA",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-1"
         },
         {
             "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020M - I3 4TH - 8GB RAM - 240GB SSD SATA",
@@ -1218,58 +1272,13 @@
             "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-3"
         },
         {
-            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020M - I3 4TH - 8GB RAM - 240GB SSD SATA",
+            "nome": "COMPUTADOR SEMINOVO - AMD RYZEN 3 3200G - RADEON VEGA 8 - 16GB RAM - 250GB SSD SATA - WINDOWS 11",
             "categoria": "computadores",
             "preco_pix": null,
             "preco_num": null,
             "parcela_12x": null,
             "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-2"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 320M - I3 4TH - 8GB RAM - 240GB SSD SATA",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-320m-i3-4th-8gb-ram-240gb-ssd-sata"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020M - I3 4TH - 8GB RAM - 240GB SSD SATA",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-4"
-        },
-        {
-            "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 3020 MICRO - I3 4TH - 8GB RAM - 240GB SSD SATA",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-3020-micro-i3-4th-8gb-ram-240gb-ssd-sata-1"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020 MICRO - I3 4TH - 8GB RAM - 256GB SSD SATA - WINDOWS 10",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020-micro-i3-4th-8gb-ram-256gb-ssd-sata-windows-10"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO DELL OPTIPLEX 3020M - I3 4TH - 8GB RAM - 240GB SSD SATA",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-dell-optiplex-3020m-i3-4th-8gb-ram-240gb-ssd-sata-1"
+            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-amd-ryzen-3-3200g-radeon-vega-8-16gb-ram-250gb-ssd-sata-windows-11"
         },
         {
             "nome": "COMPUTADOR - INTEL I3 4TH - 8GB RAM - SSD 128GB",
@@ -1279,15 +1288,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/computador-intel-i3-4th-8gb-ram-ssd-128gb"
-        },
-        {
-            "nome": "COMPUTADOR SEMINOVO - AMD RYZEN 3 3200G - RADEON VEGA 8 - 16GB RAM - 250GB SSD SATA - WINDOWS 11",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/computador-seminovo-amd-ryzen-3-3200g-radeon-vega-8-16gb-ram-250gb-ssd-sata-windows-11"
         },
         {
             "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 7020 - I7 4TH - 12GB RAM - 240GB SSD SATA",
