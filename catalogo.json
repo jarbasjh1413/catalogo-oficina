@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-10-30T14:30:13-03:00",
-    "atualizado_br": "30/10/2026 14:30:13",
+    "atualizado_em": "2026-10-30T15:01:24-03:00",
+    "atualizado_br": "30/10/2026 15:01:24",
     "origem": "site",
     "total": 153,
     "disponiveis": 55,
@@ -183,15 +183,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3410-i5-10th-16gb-ram-256gb-ssd-nvme-tela-14-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 3583 - I5 8TH - RADEON 520 2GB - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.385,00",
-            "preco_num": 2385,
-            "parcela_12x": "220,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-3583-i5-8th-radeon-520-2gb-8gb-ram-240gb-ssd-sata-tela-156-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3401 - I5 10TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
             "categoria": "notebooks",
             "preco_pix": "2.385,00",
@@ -199,6 +190,15 @@
             "parcela_12x": "220,83",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3401-i5-10th-8gb-ram-240gb-ssd-sata-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 3583 - I5 8TH - RADEON 520 2GB - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.385,00",
+            "preco_num": 2385,
+            "parcela_12x": "220,83",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-3583-i5-8th-radeon-520-2gb-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD E470 - I5 7TH - 16GB RAM - 240GB SSD SATA - TELA 14 HD",
@@ -237,15 +237,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-s145-i5-8th-geforce-mx110-2gb-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO SAMSUNG EXPERT 300E5M - I5 7TH - INTEL HD 620 - 8GB RAM - SSD M.2 120GB + HD 1TB - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.295,00",
-            "preco_num": 2295,
-            "parcela_12x": "212,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-expert-300e5m-i5-7th-intel-hd-620-8gb-ram-ssd-m2-120gb-hd-1tb-tela-156-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 15-3567 - I5 7TH - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
             "categoria": "notebooks",
             "preco_pix": "2.295,00",
@@ -253,6 +244,15 @@
             "parcela_12x": "212,50",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-15-3567-i5-7th-8gb-ram-480gb-ssd-sata-tela-156-hd-1"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO SAMSUNG EXPERT 300E5M - I5 7TH - INTEL HD 620 - 8GB RAM - SSD M.2 120GB + HD 1TB - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.295,00",
+            "preco_num": 2295,
+            "parcela_12x": "212,50",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-expert-300e5m-i5-7th-intel-hd-620-8gb-ram-ssd-m2-120gb-hd-1tb-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO HP PROBOOK 445 G7 - RYZEN 3 4300U - RADEON GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 14 HD",
