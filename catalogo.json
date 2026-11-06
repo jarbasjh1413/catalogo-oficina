@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-11-06T04:30:14-03:00",
-    "atualizado_br": "06/11/2026 04:30:14",
+    "atualizado_em": "2026-11-06T05:00:14-03:00",
+    "atualizado_br": "06/11/2026 05:00:14",
     "origem": "site",
     "total": 152,
     "disponiveis": 54,
@@ -126,7 +126,7 @@
             "preco_num": 3650,
             "parcela_12x": "304,17",
             "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd-1"
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - INTEL UHD 620 - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
@@ -135,7 +135,7 @@
             "preco_num": 3650,
             "parcela_12x": "304,17",
             "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd-1"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD S145 - RYZEN 5 3500U - VEGA 8 2GB - 12GB RAM - 500GB SSD NVME + 1TB HD - TELA 15.6 HD",
@@ -219,6 +219,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3410-i5-10th-16gb-ram-256gb-ssd-nvme-tela-14-hd"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3401 - I5 10TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.650,00",
+            "preco_num": 2650,
+            "parcela_12x": "220,83",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3401-i5-10th-8gb-ram-240gb-ssd-sata-tela-14-hd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 3583 - I5 8TH - RADEON 520 2GB - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
             "categoria": "notebooks",
             "preco_pix": "2.650,00",
@@ -235,15 +244,6 @@
             "parcela_12x": "220,83",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e470-i5-7th-16gb-ram-240gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3401 - I5 10TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.650,00",
-            "preco_num": 2650,
-            "parcela_12x": "220,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3401-i5-10th-8gb-ram-240gb-ssd-sata-tela-14-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO HP PROBOOK 440 G3 - I7 6TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
@@ -273,15 +273,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-s145-i5-8th-geforce-mx110-2gb-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO HP PROBOOK 445 G7 - RYZEN 3 4300U - RADEON GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.550,00",
-            "preco_num": 2550,
-            "parcela_12x": "212,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-probook-445-g7-ryzen-3-4300u-radeon-graphics-8gb-ram-256gb-ssd-nvme-tela-14-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 15-3567 - I5 7TH - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
             "categoria": "notebooks",
             "preco_pix": "2.550,00",
@@ -291,13 +282,13 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-15-3567-i5-7th-8gb-ram-480gb-ssd-sata-tela-156-hd-1"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3490 - I5 7TH - 8GB RAM - 240GB SSD SATA - TELA 14 FHD",
+            "nome": "NOTEBOOK SEMINOVO HP PROBOOK 445 G7 - RYZEN 3 4300U - RADEON GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 14 HD",
             "categoria": "notebooks",
-            "preco_pix": "2.399,00",
-            "preco_num": 2399,
-            "parcela_12x": "199,92",
+            "preco_pix": "2.550,00",
+            "preco_num": 2550,
+            "parcela_12x": "212,50",
             "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3490-i5-7th-8gb-ram-240gb-ssd-sata-tela-14-fhd-3"
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-probook-445-g7-ryzen-3-4300u-radeon-graphics-8gb-ram-256gb-ssd-nvme-tela-14-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5480 - I5 7TH - 8GB RAM - 256GB SSD SATA - TELA 14 HD",
@@ -307,6 +298,15 @@
             "parcela_12x": "199,92",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5480-i5-7th-8gb-ram-256gb-ssd-sata-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3490 - I5 7TH - 8GB RAM - 240GB SSD SATA - TELA 14 FHD",
+            "categoria": "notebooks",
+            "preco_pix": "2.399,00",
+            "preco_num": 2399,
+            "parcela_12x": "199,92",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3490-i5-7th-8gb-ram-240gb-ssd-sata-tela-14-fhd-3"
         },
         {
             "nome": "NOTEBOOK SEMINOVO HP 250 G8 - I3 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
@@ -354,15 +354,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3470-i5-6th-8gb-ram-120gb-ssd-sata-tela-14-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 5 - AMD A12-9720P - RADEON R7 GRAPHICS - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.999,00",
-            "preco_num": 1999,
-            "parcela_12x": "166,58",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-5-amd-a12-9720p-radeon-r7-graphics-8gb-ram-240gb-ssd-sata-tela-156-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO ACER ASPIRE F5-573 - I5 6TH - 8GB RAM - 240GB SSD SATA - TELA 15.6 FHD",
             "categoria": "notebooks",
             "preco_pix": "1.999,00",
@@ -370,6 +361,15 @@
             "parcela_12x": "166,58",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-f5-573-i5-6th-8gb-ram-240gb-ssd-sata-tela-156-fhd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 5 - AMD A12-9720P - RADEON R7 GRAPHICS - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "1.999,00",
+            "preco_num": 1999,
+            "parcela_12x": "166,58",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-5-amd-a12-9720p-radeon-r7-graphics-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 15 3568 - I3 6TH - INTEL HD 520 - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
