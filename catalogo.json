@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-11-10T11:00:17-03:00",
-    "atualizado_br": "10/11/2026 11:00:17",
+    "atualizado_em": "2026-11-10T11:30:13-03:00",
+    "atualizado_br": "10/11/2026 11:30:13",
     "origem": "site",
     "total": 153,
     "disponiveis": 48,
@@ -192,6 +192,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3410-i5-10th-16gb-ram-256gb-ssd-nvme-tela-14-hd"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3401 - I5 10TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.650,00",
+            "preco_num": 2650,
+            "parcela_12x": "220,83",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3401-i5-10th-8gb-ram-240gb-ssd-sata-tela-14-hd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 3583 - I5 8TH - RADEON 520 2GB - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
             "categoria": "notebooks",
             "preco_pix": "2.650,00",
@@ -208,15 +217,6 @@
             "parcela_12x": "220,83",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e470-i5-7th-16gb-ram-240gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3401 - I5 10TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.650,00",
-            "preco_num": 2650,
-            "parcela_12x": "220,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3401-i5-10th-8gb-ram-240gb-ssd-sata-tela-14-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO HP PROBOOK 440 G3 - I7 6TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
