@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-11T15:30:12-03:00",
-    "atualizado_br": "11/11/2026 15:30:12",
+    "atualizado_em": "2026-11-11T16:00:17-03:00",
+    "atualizado_br": "11/11/2026 16:00:17",
     "origem": "site",
     "total": 153,
-    "disponiveis": 40,
-    "esgotados": 113,
+    "disponiveis": 39,
+    "esgotados": 114,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -334,15 +334,6 @@
             "parcela_12x": "124,92",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-3i-celeron-n4020-4gb-ram-128gb-ssd-nvme-tela-156-hd-1"
-        },
-        {
-            "nome": "PC SEMINOVO OFICINA INFORMÁTICA - INTEL CORE I5 3470 - 16GB RAM - 120GB SSD SATA - FONTE 200W",
-            "categoria": "computadores",
-            "preco_pix": "1.399,00",
-            "preco_num": 1399,
-            "parcela_12x": "116,58",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/pc-seminovo-oficina-informatica-intel-core-i5-3470-16gb-ram-120gb-ssd-sata-fonte-200w"
         },
         {
             "nome": "NOTEBOOK SEMINOVO VAIO VJF155 - PENTIUM 4415U - 8GB RAM - 120GB SSD SATA - TELA 15.6 HD",
@@ -1108,6 +1099,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-3440-i5-6th-8gb-ram-240gb-ssd-sata-3"
+        },
+        {
+            "nome": "PC SEMINOVO OFICINA INFORMÁTICA - INTEL CORE I5 3470 - 16GB RAM - 120GB SSD SATA - FONTE 200W",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/pc-seminovo-oficina-informatica-intel-core-i5-3470-16gb-ram-120gb-ssd-sata-fonte-200w"
         },
         {
             "nome": "DESKTOP HP PRODESK 405 G6 - RZ3 PRO 4TH - RADEON - 8GB RAM - 256GB SSD NVME",
