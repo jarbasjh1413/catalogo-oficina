@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-11T17:30:13-03:00",
-    "atualizado_br": "11/11/2026 17:30:13",
+    "atualizado_em": "2026-11-11T18:00:13-03:00",
+    "atualizado_br": "11/11/2026 18:00:13",
     "origem": "site",
     "total": 153,
-    "disponiveis": 39,
-    "esgotados": 114,
+    "disponiveis": 41,
+    "esgotados": 112,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -174,6 +174,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e14-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3400 - I7 8TH - INTEL UHD 620 - 8GB RAM - 480GB SSD SATA - TELA 14 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.699,00",
+            "preco_num": 2699,
+            "parcela_12x": "224,92",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3400-i7-8th-intel-uhd-620-8gb-ram-480gb-ssd-sata-tela-14-hd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 3583 - I5 8TH - RADEON 520 2GB - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
             "categoria": "notebooks",
             "preco_pix": "2.650,00",
@@ -217,6 +226,15 @@
             "parcela_12x": "218,33",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5557-i5-6th-geforce-930m-8gb-ram-256gb-ssd-sata-tela-156-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 3 A315-23 - RYZEN 5 3500U - RADEON VEGA 8 2GB - 8GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": "2.560,00",
+            "preco_num": 2560,
+            "parcela_12x": "213,33",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-3-a315-23-ryzen-5-3500u-radeon-vega-8-2gb-8gb-ram-256gb-ssd-nvme-tela-156-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 15-3567 - I5 7TH - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
@@ -937,24 +955,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-100w-n100-4gb-ram-120gb-ssd-nvme-tela-11-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO SAMSUNG 550XDA - CELERON 6TH - 8GB RAM - 128GB SSD NVME + 500GB HD - TELA 15.6 FHD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-550xda-celeron-6th-8gb-ram-128gb-ssd-nvme-500gb-hd-tela-156-fhd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 31GB EMMC - TELA 13.3 FHD TOUCHSCREEN",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-31gb-emmc-tela-133-fhd-touchscreen"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
