@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-12T10:30:14-03:00",
-    "atualizado_br": "12/11/2026 10:30:14",
+    "atualizado_em": "2026-11-12T11:00:15-03:00",
+    "atualizado_br": "12/11/2026 11:00:15",
     "origem": "site",
     "total": 153,
-    "disponiveis": 44,
-    "esgotados": 109,
+    "disponiveis": 43,
+    "esgotados": 110,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -226,15 +226,6 @@
             "parcela_12x": "220,83",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e470-i5-7th-16gb-ram-240gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3401 - I5 10TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.650,00",
-            "preco_num": 2650,
-            "parcela_12x": "220,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3401-i5-10th-8gb-ram-240gb-ssd-sata-tela-14-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO HP PROBOOK 440 G3 - I7 6TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
@@ -955,6 +946,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-550xcj-celeron-8th-8gb-ram-120gb-ssd-sata-tela-156-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO SAMSUNG 530XBB - CELERON N4000 - 4GB RAM - 128GB SSD - TELA 14 FHD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-530xbb-celeron-n4000-4gb-ram-128gb-ssd-tela-14-fhd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
