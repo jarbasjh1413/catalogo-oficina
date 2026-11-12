@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-12T09:30:14-03:00",
-    "atualizado_br": "12/11/2026 09:30:14",
+    "atualizado_em": "2026-11-12T10:00:14-03:00",
+    "atualizado_br": "12/11/2026 10:00:14",
     "origem": "site",
     "total": 153,
-    "disponiveis": 41,
-    "esgotados": 112,
+    "disponiveis": 44,
+    "esgotados": 109,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -57,6 +57,15 @@
     ],
     "produtos": [
         {
+            "nome": "NOTEBOOK GAMER SEMINOVO ACER NITRO 5 AN517-54 - I5 11TH - RTX 3050 4GB - 32GB RAM - 512GB SSD NVME + 1TB HD - TELA 17.3",
+            "categoria": "notebooks",
+            "preco_pix": "5.690,00",
+            "preco_num": 5690,
+            "parcela_12x": "474,17",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-gamer-seminovo-acer-nitro-5-an517-54-i5-11th-rtx-3050-4gb-32gb-ram-512gb-ssd-nvme-1tb-hd-tela-173"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO ACER ASPIRE GO 15 - INTEL CORE 5 120U - 8GB RAM - 256GB SSD NVME - TELA FHD 16:10",
             "categoria": "notebooks",
             "preco_pix": "4.599,00",
@@ -73,6 +82,15 @@
             "parcela_12x": "374,17",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-gamer-seminovo-acer-nitro-an515-57-i5-11th-gtx-1650-4gb-16gb-ram-512gb-ssd-nvme-tela-156-fhd-144hz"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ASUS VIVOBOOK 15 X513 - I7 11TH - INTEL IRIS XE - 16GB RAM - 512GB SSD NVME - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": "3.999,00",
+            "preco_num": 3999,
+            "parcela_12x": "333,25",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-asus-vivobook-15-x513-i7-11th-intel-iris-xe-16gb-ram-512gb-ssd-nvme-tela-156-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - INTEL UHD 620 - 16GB RAM - 256GB SSD NVME - TELA 14 FHD",
@@ -100,6 +118,15 @@
             "parcela_12x": "318,33",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3410-i7-10th-16gb-ram-240gb-ssd-sata-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3540 - I5 13TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": "3.690,00",
+            "preco_num": 3690,
+            "parcela_12x": "307,50",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3540-i5-13th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-156-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - INTEL UHD 620 - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
@@ -928,33 +955,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-550xcj-celeron-8th-8gb-ram-120gb-ssd-sata-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO SAMSUNG 530XBB - CELERON N4000 - 4GB RAM - 128GB SSD - TELA 14 FHD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-530xbb-celeron-n4000-4gb-ram-128gb-ssd-tela-14-fhd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B118 - CELERON N3350 - 4GB RAM - 500GB HD + 64GB EMMC - TELA 11.6 FHD TOUCH",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b118-celeron-n3350-4gb-ram-500gb-hd-64gb-emmc-tela-116-fhd-touch"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO 100W - N100 - 4GB RAM - 120GB SSD NVME - TELA 11 HD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-100w-n100-4gb-ram-120gb-ssd-nvme-tela-11-hd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
