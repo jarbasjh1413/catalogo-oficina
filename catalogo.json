@@ -1,16 +1,16 @@
 {
-    "atualizado_em": "2026-11-12T15:30:16-03:00",
-    "atualizado_br": "12/11/2026 15:30:16",
+    "atualizado_em": "2026-11-12T16:01:14-03:00",
+    "atualizado_br": "12/11/2026 16:01:14",
     "origem": "site",
-    "total": 153,
-    "disponiveis": 43,
-    "esgotados": 110,
+    "total": 126,
+    "disponiveis": 19,
+    "esgotados": 107,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
-            "http": 200,
-            "erro": "",
-            "encontrados": 24
+            "http": 0,
+            "erro": "Connection timed out after 30001 milliseconds",
+            "encontrados": 0
         },
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=2",
@@ -44,9 +44,9 @@
         },
         {
             "url": "https://www.oficinainformaticars.com.br/monitor",
-            "http": 200,
-            "erro": "",
-            "encontrados": 7
+            "http": 0,
+            "erro": "Connection timed out after 30001 milliseconds",
+            "encontrados": 0
         },
         {
             "url": "https://www.oficinainformaticars.com.br/mouse-e-teclados",
@@ -162,223 +162,7 @@
             "preco_num": 3199,
             "parcela_12x": "266,58",
             "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd-2"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - INTEL UHD 620 - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
-            "categoria": "notebooks",
-            "preco_pix": "3.199,00",
-            "preco_num": 3199,
-            "parcela_12x": "266,58",
-            "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd-1"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 1 15AMN7 - RYZEN 5 7520U - RADEON 610M - 8GB RAM - 512GB SSD NVME - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.990,00",
-            "preco_num": 2990,
-            "parcela_12x": "249,17",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-1-15amn7-ryzen-5-7520u-radeon-610m-8gb-ram-512gb-ssd-nvme-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD SLIM 3 15IRU10 - CORE 3 100U - INTEL GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 15.3",
-            "categoria": "notebooks",
-            "preco_pix": "2.790,00",
-            "preco_num": 2790,
-            "parcela_12x": "232,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-slim-3-15iru10-core-3-100u-intel-graphics-8gb-ram-256gb-ssd-nvme-tela-153"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD E14 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
-            "categoria": "notebooks",
-            "preco_pix": "2.770,00",
-            "preco_num": 2770,
-            "parcela_12x": "230,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e14-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3400 - I7 8TH - INTEL UHD 620 - 8GB RAM - 480GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.699,00",
-            "preco_num": 2699,
-            "parcela_12x": "224,92",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3400-i7-8th-intel-uhd-620-8gb-ram-480gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 3583 - I5 8TH - RADEON 520 2GB - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.650,00",
-            "preco_num": 2650,
-            "parcela_12x": "220,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-3583-i5-8th-radeon-520-2gb-8gb-ram-240gb-ssd-sata-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD E470 - I5 7TH - 16GB RAM - 240GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.650,00",
-            "preco_num": 2650,
-            "parcela_12x": "220,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e470-i5-7th-16gb-ram-240gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO HP PROBOOK 440 G3 - I7 6TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.620,00",
-            "preco_num": 2620,
-            "parcela_12x": "218,33",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-probook-440-g3-i7-6th-8gb-ram-240gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 5557 - I5 6TH - GEFORCE 930M - 8GB RAM - 256GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.620,00",
-            "preco_num": 2620,
-            "parcela_12x": "218,33",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5557-i5-6th-geforce-930m-8gb-ram-256gb-ssd-sata-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 3 A315-23 - RYZEN 5 3500U - RADEON VEGA 8 2GB - 8GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
-            "categoria": "notebooks",
-            "preco_pix": "2.560,00",
-            "preco_num": 2560,
-            "parcela_12x": "213,33",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-3-a315-23-ryzen-5-3500u-radeon-vega-8-2gb-8gb-ram-256gb-ssd-nvme-tela-156-fhd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 15-3567 - I5 7TH - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.550,00",
-            "preco_num": 2550,
-            "parcela_12x": "212,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-15-3567-i5-7th-8gb-ram-480gb-ssd-sata-tela-156-hd-1"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 3567 - I3 7TH - INTEL HD 620 - 8GB RAM - 128GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.190,00",
-            "preco_num": 2190,
-            "parcela_12x": "182,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-3567-i3-7th-intel-hd-620-8gb-ram-128gb-ssd-sata-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3470 - I5 6TH - 8GB RAM - 120GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.090,00",
-            "preco_num": 2090,
-            "parcela_12x": "174,17",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3470-i5-6th-8gb-ram-120gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 15 3568 - I3 6TH - INTEL HD 520 - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.990,00",
-            "preco_num": 1990,
-            "parcela_12x": "165,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-15-3568-i3-6th-intel-hd-520-8gb-ram-240gb-ssd-sata-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 320-14IKB - I3 6TH - 8GB RAM - 128GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.890,00",
-            "preco_num": 1890,
-            "parcela_12x": "157,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-320-14ikb-i3-6th-8gb-ram-128gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO HP FOLIO 13-2000 - I5 2TH - 8GB RAM - 128GB SSD - TELA 13.3 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.750,00",
-            "preco_num": 1750,
-            "parcela_12x": "145,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-folio-13-2000-i5-2th-8gb-ram-128gb-ssd-tela-133-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LG 14U380 - CELERON N4100 - 8GB RAM - 120GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.699,00",
-            "preco_num": 1699,
-            "parcela_12x": "141,58",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lg-14u380-celeron-n4100-8gb-ram-120gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 5458 - I3 5TH - INTEL HD 5500 - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.699,00",
-            "preco_num": 1699,
-            "parcela_12x": "141,58",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5458-i3-5th-intel-hd-5500-8gb-ram-240gb-ssd-sata-tela-14-hd-1"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ASUS VIVOBOOK E410M - CELERON N4020 - 4GB RAM - 128GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.680,00",
-            "preco_num": 1680,
-            "parcela_12x": "140,00",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-asus-vivobook-e410m-celeron-n4020-4gb-ram-128gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE ES1-533 - CELERON N3450 - 8GB RAM - 128GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.599,00",
-            "preco_num": 1599,
-            "parcela_12x": "133,25",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-es1-533-celeron-n3450-8gb-ram-128gb-ssd-sata-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 1 15IGL7 - CELERON N4020 - 4GB RAM - 128GB SSD NVME - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.590,00",
-            "preco_num": 1590,
-            "parcela_12x": "132,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-1-15igl7-celeron-n4020-4gb-ram-128gb-ssd-nvme-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 110-14IBR - CELERON N3060 - 4GB RAM - 128GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.550,00",
-            "preco_num": 1550,
-            "parcela_12x": "129,17",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-110-14ibr-celeron-n3060-4gb-ram-128gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 3I - CELERON N4020 - 4GB RAM - 128GB SSD NVME - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.499,00",
-            "preco_num": 1499,
-            "parcela_12x": "124,92",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-3i-celeron-n4020-4gb-ram-128gb-ssd-nvme-tela-156-hd-1"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO VAIO VJF155 - PENTIUM 4415U - 8GB RAM - 120GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.299,00",
-            "preco_num": 1299,
-            "parcela_12x": "108,25",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-vaio-vjf155-pentium-4415u-8gb-ram-120gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "TECLADO GAMER 60% RETROILUMINADO LUZ RAINBOW RGB",
@@ -1369,33 +1153,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/desktop-lenovo-thinkcentre-ryzen-5-5650ge-8gb-ram-256gb-ssd-nvme-radeon"
-        },
-        {
-            "nome": "MONITOR VXPRO 21 – 21.5” LED FULL HD – HDMI VGA – BIVOLT",
-            "categoria": "monitores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/monitor-vxpro-21-215-led-full-hd-hdmi-vga-bivolt"
-        },
-        {
-            "nome": "MONITOR LED 21.5 HDMI/VGA/VESA 75HZ PRETO - BLUECASE",
-            "categoria": "monitores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/monitor-led-215-hdmivgavesa-75hz-preto-bluecase"
-        },
-        {
-            "nome": "MONITOR VST 23, 23 POL, FHD, 5MS, 60HZ, HDMI/VGA, VST-VST23-BL01",
-            "categoria": "monitores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/monitor-vst-23-23-pol-fhd-5ms-60hz-hdmivga-vst-vst23-bl01"
         },
         {
             "nome": "TECLADO GAMER EVOLUT FAY EG211 ILUMINADO LUZ RAINBOW RGB",
