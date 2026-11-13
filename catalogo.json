@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-11-13T12:30:14-03:00",
-    "atualizado_br": "13/11/2026 12:30:14",
+    "atualizado_em": "2026-11-13T13:00:14-03:00",
+    "atualizado_br": "13/11/2026 13:00:14",
     "origem": "site",
     "total": 153,
     "disponiveis": 43,
@@ -1065,15 +1065,6 @@
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-3070-i3-8th-8gb-ram-120gb-ssd-sata"
         },
         {
-            "nome": "PC SEMINOVO OFICINA INFORMÁTICA - INTEL CORE I5 3470 - 16GB RAM - 120GB SSD SATA - FONTE 200W",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/pc-seminovo-oficina-informatica-intel-core-i5-3470-16gb-ram-120gb-ssd-sata-fonte-200w"
-        },
-        {
             "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 3440 – I5 6TH – 8GB RAM – 240GB SSD SATA",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1108,6 +1099,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-3440-i5-6th-8gb-ram-240gb-ssd-sata-3"
+        },
+        {
+            "nome": "PC SEMINOVO OFICINA INFORMÁTICA - INTEL CORE I5 3470 - 16GB RAM - 120GB SSD SATA - FONTE 200W",
+            "categoria": "computadores",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/pc-seminovo-oficina-informatica-intel-core-i5-3470-16gb-ram-120gb-ssd-sata-fonte-200w"
         },
         {
             "nome": "DESKTOP HP PRODESK 405 G6 - RZ3 PRO 4TH - RADEON - 8GB RAM - 256GB SSD NVME",
