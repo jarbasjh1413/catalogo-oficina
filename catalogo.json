@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-11-14T11:00:13-03:00",
-    "atualizado_br": "14/11/2026 11:00:13",
+    "atualizado_em": "2026-11-14T11:30:16-03:00",
+    "atualizado_br": "14/11/2026 11:30:16",
     "origem": "site",
     "total": 153,
     "disponiveis": 48,
@@ -129,6 +129,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-t495-ryzen-5-pro-3500u-radeon-vega-8-2gb-24gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
         {
+            "nome": "NOTEBOOK OPEN BOX AVELL B.ON LITE NEW - I5 12TH - INTEL UHD - 16GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": "3.490,00",
+            "preco_num": 3490,
+            "parcela_12x": "290,83",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-open-box-avell-bon-lite-new-i5-12th-intel-uhd-16gb-ram-256gb-ssd-nvme-tela-156-fhd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3510 - I5 11TH - INTEL IRIS XE - 16GB RAM - 512GB SSD NVME - TELA 15.6 FHD",
             "categoria": "notebooks",
             "preco_pix": "3.390,00",
@@ -163,15 +172,6 @@
             "parcela_12x": "266,58",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd-1"
-        },
-        {
-            "nome": "NOTEBOOK OPEN BOX AVELL B.ON LITE NEW - I5 12TH - INTEL UHD - 16GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
-            "categoria": "notebooks",
-            "preco_pix": "2.999,00",
-            "preco_num": 2999,
-            "parcela_12x": "249,92",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-open-box-avell-bon-lite-new-i5-12th-intel-uhd-16gb-ram-256gb-ssd-nvme-tela-156-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 1 15AMN7 - RYZEN 5 7520U - RADEON 610M - 8GB RAM - 512GB SSD NVME - TELA 15.6 HD",
