@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-11-14T16:30:14-03:00",
-    "atualizado_br": "14/11/2026 16:30:14",
+    "atualizado_em": "2026-11-14T17:00:14-03:00",
+    "atualizado_br": "14/11/2026 17:00:14",
     "origem": "site",
     "total": 153,
     "disponiveis": 47,
@@ -255,6 +255,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-probook-440-g3-i7-6th-8gb-ram-240gb-ssd-sata-tela-14-hd"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 5557 - I5 6TH - GEFORCE 930M - 8GB RAM - 256GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.620,00",
+            "preco_num": 2620,
+            "parcela_12x": "218,33",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5557-i5-6th-geforce-930m-8gb-ram-256gb-ssd-sata-tela-156-hd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 3 A315-23 - RYZEN 5 3500U - RADEON VEGA 8 2GB - 8GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
             "categoria": "notebooks",
             "preco_pix": "2.560,00",
@@ -262,15 +271,6 @@
             "parcela_12x": "213,33",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-3-a315-23-ryzen-5-3500u-radeon-vega-8-2gb-8gb-ram-256gb-ssd-nvme-tela-156-fhd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 15-3567 - I5 7TH - 8GB RAM - 480GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.550,00",
-            "preco_num": 2550,
-            "parcela_12x": "212,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-15-3567-i5-7th-8gb-ram-480gb-ssd-sata-tela-156-hd-1"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD BS145-15IIL - I3 10TH - INTEL UHD - 12GB RAM - 256GB SSD NVME - TELA 15.6 HD",
