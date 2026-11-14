@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-14T16:00:13-03:00",
-    "atualizado_br": "14/11/2026 16:00:13",
+    "atualizado_em": "2026-11-14T16:30:14-03:00",
+    "atualizado_br": "14/11/2026 16:30:14",
     "origem": "site",
     "total": 153,
-    "disponiveis": 48,
-    "esgotados": 105,
+    "disponiveis": 47,
+    "esgotados": 106,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -253,15 +253,6 @@
             "parcela_12x": "218,33",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-probook-440-g3-i7-6th-8gb-ram-240gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 5557 - I5 6TH - GEFORCE 930M - 8GB RAM - 256GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.620,00",
-            "preco_num": 2620,
-            "parcela_12x": "218,33",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5557-i5-6th-geforce-930m-8gb-ram-256gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER ASPIRE 3 A315-23 - RYZEN 5 3500U - RADEON VEGA 8 2GB - 8GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
@@ -973,6 +964,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-4gb-ram-120gb-ssd-sata-tela-116-fhd-touch-2-em-1-vira-tablet"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B118-RN - CELERON N3450 - 4GB RAM - 120GB SSD SATA - TELA 11.6 FHD - TOUCHSCREEN",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b118-rn-celeron-n3450-4gb-ram-120gb-ssd-sata-tela-116-fhd-touchscreen"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
