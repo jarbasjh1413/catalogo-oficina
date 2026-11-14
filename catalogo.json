@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-11-14T10:00:12-03:00",
-    "atualizado_br": "14/11/2026 10:00:12",
+    "atualizado_em": "2026-11-14T10:30:13-03:00",
+    "atualizado_br": "14/11/2026 10:30:13",
     "origem": "site",
     "total": 153,
     "disponiveis": 48,
@@ -201,15 +201,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-250-g8-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-156-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD SLIM 3 15IRU10 - CORE 3 100U - INTEL GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 15.3",
-            "categoria": "notebooks",
-            "preco_pix": "2.790,00",
-            "preco_num": 2790,
-            "parcela_12x": "232,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-slim-3-15iru10-core-3-100u-intel-graphics-8gb-ram-256gb-ssd-nvme-tela-153"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO HP 240 G8 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 14 HD",
             "categoria": "notebooks",
             "preco_pix": "2.790,00",
@@ -217,6 +208,15 @@
             "parcela_12x": "232,50",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-240-g8-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD SLIM 3 15IRU10 - CORE 3 100U - INTEL GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 15.3",
+            "categoria": "notebooks",
+            "preco_pix": "2.790,00",
+            "preco_num": 2790,
+            "parcela_12x": "232,50",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-slim-3-15iru10-core-3-100u-intel-graphics-8gb-ram-256gb-ssd-nvme-tela-153"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD E14 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
