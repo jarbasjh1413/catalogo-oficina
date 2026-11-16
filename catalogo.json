@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-16T08:30:15-03:00",
-    "atualizado_br": "16/11/2026 08:30:15",
+    "atualizado_em": "2026-11-16T09:00:14-03:00",
+    "atualizado_br": "16/11/2026 09:00:14",
     "origem": "site",
     "total": 153,
-    "disponiveis": 47,
-    "esgotados": 106,
+    "disponiveis": 46,
+    "esgotados": 107,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -208,15 +208,6 @@
             "parcela_12x": "232,50",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-240-g8-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD SLIM 3 15IRU10 - CORE 3 100U - INTEL GRAPHICS - 8GB RAM - 256GB SSD NVME - TELA 15.3",
-            "categoria": "notebooks",
-            "preco_pix": "2.790,00",
-            "preco_num": 2790,
-            "parcela_12x": "232,50",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-slim-3-15iru10-core-3-100u-intel-graphics-8gb-ram-256gb-ssd-nvme-tela-153"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD E14 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
@@ -973,6 +964,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b118-rn-celeron-n3450-4gb-ram-120gb-ssd-sata-tela-116-fhd-touchscreen"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO SAMSUNG 550XCJ - CELERON 8TH - 8GB RAM - 120GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-550xcj-celeron-8th-8gb-ram-120gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
