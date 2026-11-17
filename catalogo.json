@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-17T13:00:14-03:00",
-    "atualizado_br": "17/11/2026 13:00:14",
+    "atualizado_em": "2026-11-17T13:30:22-03:00",
+    "atualizado_br": "17/11/2026 13:30:22",
     "origem": "site",
     "total": 153,
-    "disponiveis": 43,
-    "esgotados": 110,
+    "disponiveis": 42,
+    "esgotados": 111,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -361,15 +361,6 @@
             "parcela_12x": "129,17",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-110-14ibr-celeron-n3060-4gb-ram-128gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 3I - CELERON N4020 - 4GB RAM - 128GB SSD NVME - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.499,00",
-            "preco_num": 1499,
-            "parcela_12x": "124,92",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-3i-celeron-n4020-4gb-ram-128gb-ssd-nvme-tela-156-hd-1"
         },
         {
             "nome": "NOTEBOOK SEMINOVO VAIO VJF155 - PENTIUM 4415U - 8GB RAM - 120GB SSD SATA - TELA 15.6 HD",
@@ -964,6 +955,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b118-celeron-n3350-4gb-ram-500gb-hd-64gb-emmc-tela-116-fhd-touch"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO LENOVO 100W - N100 - 4GB RAM - 120GB SSD NVME - TELA 11 HD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-100w-n100-4gb-ram-120gb-ssd-nvme-tela-11-hd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
