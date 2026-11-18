@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-18T15:30:13-03:00",
-    "atualizado_br": "18/11/2026 15:30:13",
+    "atualizado_em": "2026-11-18T16:00:13-03:00",
+    "atualizado_br": "18/11/2026 16:00:13",
     "origem": "site",
     "total": 153,
-    "disponiveis": 41,
-    "esgotados": 112,
+    "disponiveis": 43,
+    "esgotados": 110,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -147,13 +147,13 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-open-box-avell-bon-lite-new-i5-12th-intel-uhd-16gb-ram-256gb-ssd-nvme-tela-156-fhd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3510 - I5 11TH - INTEL IRIS XE - 16GB RAM - 512GB SSD NVME - TELA 15.6 FHD",
+            "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD E14 GEN 2 - I5 11TH - INTEL IRIS XE - 16GB RAM - 256GB SSD NVME - TELA 14 FHD",
             "categoria": "notebooks",
             "preco_pix": "3.390,00",
             "preco_num": 3390,
             "parcela_12x": "282,50",
             "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3510-i5-11th-intel-iris-xe-16gb-ram-512gb-ssd-nvme-tela-156-fhd"
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e14-gen-2-i5-11th-intel-iris-xe-16gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
@@ -219,6 +219,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-240-g8-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-hd"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD E470 - I7 7TH - GEFORCE 940MX 2GB - 16GB RAM - 256GB SSD SATA - TELA 14 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.790,00",
+            "preco_num": 2790,
+            "parcela_12x": "232,50",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e470-i7-7th-geforce-940mx-2gb-16gb-ram-256gb-ssd-sata-tela-14-hd"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD E14 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
             "categoria": "notebooks",
             "preco_pix": "2.770,00",
@@ -262,6 +271,15 @@
             "parcela_12x": "208,25",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-bs145-15iil-i3-10th-intel-uhd-12gb-ram-256gb-ssd-nvme-tela-156-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO HP 250 G8 - I3 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.480,00",
+            "preco_num": 2480,
+            "parcela_12x": "206,67",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-250-g8-i3-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-156-hd-5"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD BS145-15IIL - I3 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
@@ -946,24 +964,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b118-celeron-n3350-4gb-ram-500gb-hd-64gb-emmc-tela-116-fhd-touch"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO 100W - N100 - 4GB RAM - 120GB SSD NVME - TELA 11 HD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-100w-n100-4gb-ram-120gb-ssd-nvme-tela-11-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO SAMSUNG 550XDA - CELERON 6TH - 8GB RAM - 128GB SSD NVME + 500GB HD - TELA 15.6 FHD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-550xda-celeron-6th-8gb-ram-128gb-ssd-nvme-500gb-hd-tela-156-fhd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
