@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-18T14:30:13-03:00",
-    "atualizado_br": "18/11/2026 14:30:13",
+    "atualizado_em": "2026-11-18T15:00:14-03:00",
+    "atualizado_br": "18/11/2026 15:00:14",
     "origem": "site",
     "total": 153,
-    "disponiveis": 43,
-    "esgotados": 110,
+    "disponiveis": 41,
+    "esgotados": 112,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -237,15 +237,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3400-i7-8th-intel-uhd-620-8gb-ram-480gb-ssd-sata-tela-14-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 3583 - I5 8TH - RADEON 520 2GB - 8GB RAM - 240GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.650,00",
-            "preco_num": 2650,
-            "parcela_12x": "220,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-3583-i5-8th-radeon-520-2gb-8gb-ram-240gb-ssd-sata-tela-156-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO HP PROBOOK 440 G3 - I7 6TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
             "categoria": "notebooks",
             "preco_pix": "2.620,00",
@@ -289,15 +280,6 @@
             "parcela_12x": "174,17",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3470-i5-6th-8gb-ram-120gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 15 3568 - I3 6TH - INTEL HD 520 - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.990,00",
-            "preco_num": 1990,
-            "parcela_12x": "165,83",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-15-3568-i3-6th-intel-hd-520-8gb-ram-240gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "DESKTOP SEMINOVO DELL OPTIPLEX 3060 MICRO - I5 8TH - INTEL UHD 630 - 8GB RAM - 256GB SSD SATA",
@@ -964,6 +946,24 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b118-celeron-n3350-4gb-ram-500gb-hd-64gb-emmc-tela-116-fhd-touch"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO LENOVO 100W - N100 - 4GB RAM - 120GB SSD NVME - TELA 11 HD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-100w-n100-4gb-ram-120gb-ssd-nvme-tela-11-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO SAMSUNG 550XDA - CELERON 6TH - 8GB RAM - 128GB SSD NVME + 500GB HD - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-550xda-celeron-6th-8gb-ram-128gb-ssd-nvme-500gb-hd-tela-156-fhd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
