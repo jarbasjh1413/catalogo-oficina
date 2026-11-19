@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-19T17:30:14-03:00",
-    "atualizado_br": "19/11/2026 17:30:14",
+    "atualizado_em": "2026-11-19T18:00:13-03:00",
+    "atualizado_br": "19/11/2026 18:00:13",
     "origem": "site",
     "total": 153,
-    "disponiveis": 42,
-    "esgotados": 111,
+    "disponiveis": 41,
+    "esgotados": 112,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -111,7 +111,7 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e14-gen-4-i7-12th-intel-iris-xe-8gb-ram-512gb-ssd-nvme-tela-14-fhd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3540 - I5 13TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
+            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3540 - I5 13TH - INTEL IRIS XE - 16GB RAM - 256GB SSD NVME - TELA 15.6 FHD",
             "categoria": "notebooks",
             "preco_pix": "3.690,00",
             "preco_num": 3690,
@@ -271,15 +271,6 @@
             "parcela_12x": "218,33",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5557-i5-6th-geforce-930m-8gb-ram-256gb-ssd-sata-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO HP 250 G8 - I3 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.480,00",
-            "preco_num": 2480,
-            "parcela_12x": "206,67",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-250-g8-i3-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-156-hd-5"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3470 - I5 6TH - 8GB RAM - 120GB SSD SATA - TELA 14 HD",
@@ -973,6 +964,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-550xda-celeron-6th-8gb-ram-128gb-ssd-nvme-500gb-hd-tela-156-fhd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 31GB EMMC - TELA 13.3 FHD TOUCHSCREEN",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-31gb-emmc-tela-133-fhd-touchscreen"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
