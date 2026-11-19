@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-19T08:30:14-03:00",
-    "atualizado_br": "19/11/2026 08:30:14",
+    "atualizado_em": "2026-11-19T09:00:12-03:00",
+    "atualizado_br": "19/11/2026 09:00:12",
     "origem": "site",
     "total": 153,
-    "disponiveis": 41,
-    "esgotados": 112,
+    "disponiveis": 42,
+    "esgotados": 111,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -145,6 +145,15 @@
             "parcela_12x": "282,50",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e14-gen-2-i5-11th-intel-iris-xe-16gb-ram-256gb-ssd-nvme-tela-14-fhd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3510 - I5 11TH - INTEL IRIS XE - 16GB RAM - 512GB SSD NVME - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": "3.390,00",
+            "preco_num": 3390,
+            "parcela_12x": "282,50",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3510-i5-11th-intel-iris-xe-16gb-ram-512gb-ssd-nvme-tela-156-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
@@ -955,15 +964,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-100w-n100-4gb-ram-120gb-ssd-nvme-tela-11-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO SAMSUNG 550XDA - CELERON 6TH - 8GB RAM - 128GB SSD NVME + 500GB HD - TELA 15.6 FHD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-550xda-celeron-6th-8gb-ram-128gb-ssd-nvme-500gb-hd-tela-156-fhd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
