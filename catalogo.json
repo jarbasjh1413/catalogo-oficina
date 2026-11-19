@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-19T17:00:12-03:00",
-    "atualizado_br": "19/11/2026 17:00:12",
+    "atualizado_em": "2026-11-19T17:30:14-03:00",
+    "atualizado_br": "19/11/2026 17:30:14",
     "origem": "site",
     "total": 153,
-    "disponiveis": 41,
-    "esgotados": 112,
+    "disponiveis": 42,
+    "esgotados": 111,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -352,6 +352,15 @@
             "parcela_12x": "129,17",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-110-14ibr-celeron-n3060-4gb-ram-128gb-ssd-sata-tela-14-hd"
+        },
+        {
+            "nome": "DESKTOP SEMINOVO LENOVO THINKCENTRE M93 TINY - I3 4TH - INTEL HD 4400 - 8GB RAM - 128GB SSD SATA",
+            "categoria": "computadores",
+            "preco_pix": "1.399,00",
+            "preco_num": 1399,
+            "parcela_12x": "116,58",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-lenovo-thinkcentre-m93-tiny-i3-4th-intel-hd-4400-8gb-ram-128gb-ssd-sata"
         },
         {
             "nome": "NOTEBOOK SEMINOVO VAIO VJF155 - PENTIUM 4415U - 8GB RAM - 120GB SSD SATA - TELA 15.6 HD",
@@ -1117,15 +1126,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-dell-optiplex-3440-i5-6th-8gb-ram-240gb-ssd-sata-3"
-        },
-        {
-            "nome": "DESKTOP SEMINOVO LENOVO THINKCENTRE M93 TINY - I3 4TH - INTEL HD 4400 - 8GB RAM - 128GB SSD SATA",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-lenovo-thinkcentre-m93-tiny-i3-4th-intel-hd-4400-8gb-ram-128gb-ssd-sata"
         },
         {
             "nome": "DESKTOP HP PRODESK 405 G6 - RZ3 PRO 4TH - RADEON - 8GB RAM - 256GB SSD NVME",
