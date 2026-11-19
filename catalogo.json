@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-19T18:00:13-03:00",
-    "atualizado_br": "19/11/2026 18:00:13",
+    "atualizado_em": "2026-11-19T18:30:14-03:00",
+    "atualizado_br": "19/11/2026 18:30:14",
     "origem": "site",
     "total": 153,
-    "disponiveis": 41,
-    "esgotados": 112,
+    "disponiveis": 40,
+    "esgotados": 113,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -127,15 +127,6 @@
             "parcela_12x": "304,17",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD T495 - RYZEN 5 PRO 3500U - RADEON VEGA 8 2GB - 24GB RAM - 256GB SSD NVME - TELA 14 FHD",
-            "categoria": "notebooks",
-            "preco_pix": "3.499,00",
-            "preco_num": 3499,
-            "parcela_12x": "291,58",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-t495-ryzen-5-pro-3500u-radeon-vega-8-2gb-24gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD E14 GEN 2 - I5 11TH - INTEL IRIS XE - 16GB RAM - 256GB SSD NVME - TELA 14 FHD",
@@ -973,6 +964,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-31gb-emmc-tela-133-fhd-touchscreen"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 62GB EMMC - TELA 13.3 FHD TOUCH",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-62gb-emmc-tela-133-fhd-touch"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
