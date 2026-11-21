@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-21T11:00:13-03:00",
-    "atualizado_br": "21/11/2026 11:00:13",
+    "atualizado_em": "2026-11-21T11:30:14-03:00",
+    "atualizado_br": "21/11/2026 11:30:14",
     "origem": "site",
     "total": 153,
-    "disponiveis": 38,
-    "esgotados": 115,
+    "disponiveis": 36,
+    "esgotados": 117,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -181,24 +181,6 @@
             "parcela_12x": "240,83",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-7310-i5-10th-8gb-ram-256gb-ssd-nvme-tela-133-fhd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL INSPIRON 5566 - I7 7TH - 16GB RAM - 480GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.799,00",
-            "preco_num": 2799,
-            "parcela_12x": "233,25",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5566-i7-7th-16gb-ram-480gb-ssd-sata-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO HP 250 G8 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.799,00",
-            "preco_num": 2799,
-            "parcela_12x": "233,25",
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-250-g8-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO HP 240 G8 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 14 HD",
@@ -964,6 +946,24 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b-celeron-n3450-4gb-ram-120gb-ssd-sata-32gb-emmc-tela-116-touch"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO SAMSUNG 350XBE - CELERON - 8GB RAM - 256GB SSD SATA - TELA 15.6″ HD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-350xbe-celeron-8gb-ram-256gb-ssd-sata-tela-156-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 1 - CELERON N4500 - 4GB RAM - 128GB eMMC - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-1-celeron-n4500-4gb-ram-128gb-emmc-tela-156-fhd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
