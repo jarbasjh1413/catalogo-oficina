@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-11-22T14:00:14-03:00",
-    "atualizado_br": "22/11/2026 14:00:14",
+    "atualizado_em": "2026-11-22T14:30:14-03:00",
+    "atualizado_br": "22/11/2026 14:30:14",
     "origem": "site",
     "total": 153,
     "disponiveis": 41,
@@ -355,7 +355,7 @@
         },
         {
             "nome": "DESKTOP SEMINOVO LENOVO THINKCENTRE M93 TINY - I3 4TH - INTEL HD 4400 - 8GB RAM - 128GB SSD SATA",
-            "categoria": "notebooks",
+            "categoria": "computadores",
             "preco_pix": "950,00",
             "preco_num": 950,
             "parcela_12x": "79,17",
@@ -975,6 +975,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-31gb-emmc-tela-133-fhd-touchscreen"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 62GB EMMC - TELA 13.3 FHD TOUCH",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-62gb-emmc-tela-133-fhd-touch"
+        },
+        {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1360,15 +1369,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-lenovo-thinkcentre-m900-i5-6th-8gb-ram-126gb-ssd-nvme-1tb-hd"
-        },
-        {
-            "nome": "DESKTOP SEMINOVO LENOVO THINKCENTRE M900 - I5 6TH - 8GB RAM - 128GB SSD NVME & 1TB HD COM WIFI",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-lenovo-thinkcentre-m900-i5-6th-8gb-ram-128gb-ssd-nvme-1tb-hd-1"
         },
         {
             "nome": "MONITOR VXPRO 21 – 21.5” LED FULL HD – HDMI VGA – BIVOLT",
