@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-22T13:30:13-03:00",
-    "atualizado_br": "22/11/2026 13:30:13",
+    "atualizado_em": "2026-11-22T14:00:14-03:00",
+    "atualizado_br": "22/11/2026 14:00:14",
     "origem": "site",
     "total": 153,
-    "disponiveis": 36,
-    "esgotados": 117,
+    "disponiveis": 41,
+    "esgotados": 112,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -81,15 +81,6 @@
             "preco_num": 3990,
             "parcela_12x": "332,50",
             "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-16gb-ram-256gb-ssd-nvme-tela-14-fhd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - INTEL UHD 620 - 16GB RAM - 256GB SSD NVME - TELA 14 FHD",
-            "categoria": "notebooks",
-            "preco_pix": "3.990,00",
-            "preco_num": 3990,
-            "parcela_12x": "332,50",
-            "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-16gb-ram-256gb-ssd-nvme-tela-14-fhd-1"
         },
         {
@@ -120,13 +111,13 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3540-i5-13th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-156-fhd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - INTEL UHD 620 - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
+            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - INTEL UHD 620 - 16GB RAM - 256GB SSD NVME - TELA 14 FHD",
             "categoria": "notebooks",
-            "preco_pix": "3.650,00",
-            "preco_num": 3650,
-            "parcela_12x": "304,17",
+            "preco_pix": "3.399,00",
+            "preco_num": 3399,
+            "parcela_12x": "283,25",
             "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-16gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO LENOVO THINKPAD E14 GEN 2 - I5 11TH - INTEL IRIS XE - 16GB RAM - 256GB SSD NVME - TELA 14 FHD",
@@ -154,6 +145,15 @@
             "parcela_12x": "266,58",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd-2"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - INTEL UHD 620 - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
+            "categoria": "notebooks",
+            "preco_pix": "3.199,00",
+            "preco_num": 3199,
+            "parcela_12x": "266,58",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 5410 - I7 10TH - INTEL UHD 620 - 8GB RAM - 256GB SSD NVME - TELA 14 FHD",
@@ -210,6 +210,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e14-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
         {
+            "nome": "PC GAMER SEMINOVO OFICINA INFORMATICA - I3 10TH - RTX 3050 8GB - 16GB RAM - 240GB SSD SATA",
+            "categoria": "computadores",
+            "preco_pix": "2.700,00",
+            "preco_num": 2700,
+            "parcela_12x": "225,00",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/pc-gamer-seminovo-oficina-informatica-i3-10th-rtx-3050-8gb-16gb-ram-240gb-ssd-sata"
+        },
+        {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3400 - I7 8TH - INTEL UHD 620 - 8GB RAM - 480GB SSD SATA - TELA 14 HD",
             "categoria": "notebooks",
             "preco_pix": "2.699,00",
@@ -217,6 +226,15 @@
             "parcela_12x": "224,92",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3400-i7-8th-intel-uhd-620-8gb-ram-480gb-ssd-sata-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO HP 240 G7 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 14 HD",
+            "categoria": "notebooks",
+            "preco_pix": "2.680,00",
+            "preco_num": 2680,
+            "parcela_12x": "223,33",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-240-g7-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO HP PROBOOK 440 G3 - I7 6TH - 8GB RAM - 240GB SSD SATA - TELA 14 HD",
@@ -235,6 +253,15 @@
             "parcela_12x": "218,33",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5557-i5-6th-geforce-930m-8gb-ram-256gb-ssd-sata-tela-156-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3520 - I5 12TH - INTEL IRIS XE - 8GB RAM - 256GB SSD NVME - TELA 15.6 FHD 120HZ",
+            "categoria": "notebooks",
+            "preco_pix": "2.500,00",
+            "preco_num": 2500,
+            "parcela_12x": "208,33",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3520-i5-12th-intel-iris-xe-8gb-ram-256gb-ssd-nvme-tela-156-fhd-120hz"
         },
         {
             "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3470 - I5 6TH - 8GB RAM - 120GB SSD SATA - TELA 14 HD",
@@ -300,6 +327,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-110-14ibr-celeron-n3060-4gb-ram-128gb-ssd-sata-tela-14-hd"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3400 - I3 8TH - INTEL UHD 620 - 8GB RAM - 256GB SSD NVME - TELA 14 HD",
+            "categoria": "notebooks",
+            "preco_pix": "1.500,00",
+            "preco_num": 1500,
+            "parcela_12x": "125,00",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3400-i3-8th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-hd"
+        },
+        {
             "nome": "DESKTOP SEMINOVO LENOVO THINKCENTRE M93 TINY - I3 4TH - INTEL HD 4400 - 8GB RAM - 128GB SSD SATA",
             "categoria": "computadores",
             "preco_pix": "1.399,00",
@@ -316,6 +352,15 @@
             "parcela_12x": "108,25",
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-vaio-vjf155-pentium-4415u-8gb-ram-120gb-ssd-sata-tela-156-hd"
+        },
+        {
+            "nome": "DESKTOP SEMINOVO LENOVO THINKCENTRE M93 TINY - I3 4TH - INTEL HD 4400 - 8GB RAM - 128GB SSD SATA",
+            "categoria": "notebooks",
+            "preco_pix": "950,00",
+            "preco_num": 950,
+            "parcela_12x": "79,17",
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-lenovo-thinkcentre-m93-tiny-i3-4th-intel-hd-4400-8gb-ram-128gb-ssd-sata-1"
         },
         {
             "nome": "TECLADO GAMER 60% RETROILUMINADO LUZ RAINBOW RGB",
@@ -930,42 +975,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-31gb-emmc-tela-133-fhd-touchscreen"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 62GB EMMC - TELA 13.3 FHD TOUCH",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-62gb-emmc-tela-133-fhd-touch"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B - CELERON N3450 - 4GB RAM - 120GB SSD SATA & 32GB EMMC - TELA 11.6″ TOUCH",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b-celeron-n3450-4gb-ram-120gb-ssd-sata-32gb-emmc-tela-116-touch"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO SAMSUNG 350XBE - CELERON - 8GB RAM - 256GB SSD SATA - TELA 15.6″ HD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-350xbe-celeron-8gb-ram-256gb-ssd-sata-tela-156-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 1 - CELERON N4500 - 4GB RAM - 128GB eMMC - TELA 15.6 FHD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-1-celeron-n4500-4gb-ram-128gb-emmc-tela-156-fhd"
-        },
-        {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
             "categoria": "computadores",
             "preco_pix": null,
@@ -1360,15 +1369,6 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-lenovo-thinkcentre-m900-i5-6th-8gb-ram-128gb-ssd-nvme-1tb-hd-1"
-        },
-        {
-            "nome": "DESKTOP SEMINOVO LENOVO THINKCENTRE M900 - I5 6TH - 8GB RAM - 128GB SSD NVME & 1TB HD COM WIFI",
-            "categoria": "computadores",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-lenovo-thinkcentre-m900-i5-6th-8gb-ram-128gb-ssd-nvme-1tb-hd"
         },
         {
             "nome": "MONITOR VXPRO 21 – 21.5” LED FULL HD – HDMI VGA – BIVOLT",
