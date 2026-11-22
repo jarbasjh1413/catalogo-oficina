@@ -1,6 +1,6 @@
 {
-    "atualizado_em": "2026-11-22T16:30:13-03:00",
-    "atualizado_br": "22/11/2026 16:30:13",
+    "atualizado_em": "2026-11-22T17:00:13-03:00",
+    "atualizado_br": "22/11/2026 17:00:13",
     "origem": "site",
     "total": 153,
     "disponiveis": 41,
@@ -61,7 +61,7 @@
             "categoria": "notebooks",
             "preco_pix": "4.599,00",
             "preco_num": 4599,
-            "parcela_12x": "383,25",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-go-15-intel-core-5-120u-8gb-ram-256gb-ssd-nvme-tela-fhd-1610"
         },
@@ -70,7 +70,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.999,00",
             "preco_num": 3999,
-            "parcela_12x": "333,25",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-asus-vivobook-15-x513-i7-11th-intel-iris-xe-16gb-ram-512gb-ssd-nvme-tela-156-fhd"
         },
@@ -79,7 +79,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.990,00",
             "preco_num": 3990,
-            "parcela_12x": "332,50",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-16gb-ram-256gb-ssd-nvme-tela-14-fhd-1"
         },
@@ -88,7 +88,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.820,00",
             "preco_num": 3820,
-            "parcela_12x": "318,33",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3410-i7-10th-16gb-ram-240gb-ssd-sata-tela-14-hd"
         },
@@ -97,7 +97,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.699,00",
             "preco_num": 3699,
-            "parcela_12x": "308,25",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e14-gen-4-i7-12th-intel-iris-xe-8gb-ram-512gb-ssd-nvme-tela-14-fhd"
         },
@@ -106,7 +106,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.690,00",
             "preco_num": 3690,
-            "parcela_12x": "307,50",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3540-i5-13th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-156-fhd"
         },
@@ -115,7 +115,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.399,00",
             "preco_num": 3399,
-            "parcela_12x": "283,25",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-16gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
@@ -124,7 +124,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.390,00",
             "preco_num": 3390,
-            "parcela_12x": "282,50",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e14-gen-2-i5-11th-intel-iris-xe-16gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
@@ -133,7 +133,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.250,00",
             "preco_num": 3250,
-            "parcela_12x": "270,83",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
@@ -142,7 +142,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.199,00",
             "preco_num": 3199,
-            "parcela_12x": "266,58",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd-2"
         },
@@ -151,7 +151,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.199,00",
             "preco_num": 3199,
-            "parcela_12x": "266,58",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
@@ -160,7 +160,7 @@
             "categoria": "notebooks",
             "preco_pix": "3.199,00",
             "preco_num": 3199,
-            "parcela_12x": "266,58",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-5410-i7-10th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-fhd-1"
         },
@@ -169,7 +169,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.990,00",
             "preco_num": 2990,
-            "parcela_12x": "249,17",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-1-15amn7-ryzen-5-7520u-radeon-610m-8gb-ram-512gb-ssd-nvme-tela-156-hd"
         },
@@ -178,7 +178,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.890,00",
             "preco_num": 2890,
-            "parcela_12x": "240,83",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-7310-i5-10th-8gb-ram-256gb-ssd-nvme-tela-133-fhd"
         },
@@ -187,7 +187,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.790,00",
             "preco_num": 2790,
-            "parcela_12x": "232,50",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-240-g8-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-hd"
         },
@@ -196,7 +196,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.790,00",
             "preco_num": 2790,
-            "parcela_12x": "232,50",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e470-i7-7th-geforce-940mx-2gb-16gb-ram-256gb-ssd-sata-tela-14-hd"
         },
@@ -205,7 +205,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.770,00",
             "preco_num": 2770,
-            "parcela_12x": "230,83",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e14-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-fhd"
         },
@@ -214,7 +214,7 @@
             "categoria": "computadores",
             "preco_pix": "2.700,00",
             "preco_num": 2700,
-            "parcela_12x": "225,00",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/pc-gamer-seminovo-oficina-informatica-i3-10th-rtx-3050-8gb-16gb-ram-240gb-ssd-sata"
         },
@@ -223,7 +223,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.699,00",
             "preco_num": 2699,
-            "parcela_12x": "224,92",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3400-i7-8th-intel-uhd-620-8gb-ram-480gb-ssd-sata-tela-14-hd"
         },
@@ -232,7 +232,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.680,00",
             "preco_num": 2680,
-            "parcela_12x": "223,33",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-240-g7-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-hd"
         },
@@ -241,7 +241,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.620,00",
             "preco_num": 2620,
-            "parcela_12x": "218,33",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-probook-440-g3-i7-6th-8gb-ram-240gb-ssd-sata-tela-14-hd"
         },
@@ -250,7 +250,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.620,00",
             "preco_num": 2620,
-            "parcela_12x": "218,33",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5557-i5-6th-geforce-930m-8gb-ram-256gb-ssd-sata-tela-156-hd"
         },
@@ -259,7 +259,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.500,00",
             "preco_num": 2500,
-            "parcela_12x": "208,33",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3520-i5-12th-intel-iris-xe-8gb-ram-256gb-ssd-nvme-tela-156-fhd-120hz"
         },
@@ -268,7 +268,7 @@
             "categoria": "notebooks",
             "preco_pix": "2.090,00",
             "preco_num": 2090,
-            "parcela_12x": "174,17",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3470-i5-6th-8gb-ram-120gb-ssd-sata-tela-14-hd"
         },
@@ -277,7 +277,7 @@
             "categoria": "notebooks",
             "preco_pix": "1.890,00",
             "preco_num": 1890,
-            "parcela_12x": "157,50",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-320-14ikb-i3-6th-8gb-ram-128gb-ssd-sata-tela-14-hd"
         },
@@ -286,7 +286,7 @@
             "categoria": "notebooks",
             "preco_pix": "1.750,00",
             "preco_num": 1750,
-            "parcela_12x": "145,83",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-folio-13-2000-i5-2th-8gb-ram-128gb-ssd-tela-133-hd"
         },
@@ -295,7 +295,7 @@
             "categoria": "notebooks",
             "preco_pix": "1.699,00",
             "preco_num": 1699,
-            "parcela_12x": "141,58",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lg-14u380-celeron-n4100-8gb-ram-120gb-ssd-sata-tela-14-hd"
         },
@@ -304,7 +304,7 @@
             "categoria": "notebooks",
             "preco_pix": "1.680,00",
             "preco_num": 1680,
-            "parcela_12x": "140,00",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-asus-vivobook-e410m-celeron-n4020-4gb-ram-128gb-ssd-sata-tela-14-hd"
         },
@@ -313,7 +313,7 @@
             "categoria": "notebooks",
             "preco_pix": "1.599,00",
             "preco_num": 1599,
-            "parcela_12x": "133,25",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-es1-533-celeron-n3450-8gb-ram-128gb-ssd-sata-tela-156-hd"
         },
@@ -322,7 +322,7 @@
             "categoria": "notebooks",
             "preco_pix": "1.550,00",
             "preco_num": 1550,
-            "parcela_12x": "129,17",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-110-14ibr-celeron-n3060-4gb-ram-128gb-ssd-sata-tela-14-hd"
         },
@@ -331,7 +331,7 @@
             "categoria": "notebooks",
             "preco_pix": "1.500,00",
             "preco_num": 1500,
-            "parcela_12x": "125,00",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3400-i3-8th-intel-uhd-620-8gb-ram-256gb-ssd-nvme-tela-14-hd"
         },
@@ -340,7 +340,7 @@
             "categoria": "computadores",
             "preco_pix": "1.399,00",
             "preco_num": 1399,
-            "parcela_12x": "116,58",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-lenovo-thinkcentre-m93-tiny-i3-4th-intel-hd-4400-8gb-ram-128gb-ssd-sata"
         },
@@ -349,7 +349,7 @@
             "categoria": "notebooks",
             "preco_pix": "1.299,00",
             "preco_num": 1299,
-            "parcela_12x": "108,25",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-vaio-vjf155-pentium-4415u-8gb-ram-120gb-ssd-sata-tela-156-hd"
         },
@@ -358,7 +358,7 @@
             "categoria": "computadores",
             "preco_pix": "950,00",
             "preco_num": 950,
-            "parcela_12x": "79,17",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/desktop-seminovo-lenovo-thinkcentre-m93-tiny-i3-4th-intel-hd-4400-8gb-ram-128gb-ssd-sata-1"
         },
@@ -367,7 +367,7 @@
             "categoria": "mouse_e_teclados",
             "preco_pix": "269,90",
             "preco_num": 269.9,
-            "parcela_12x": "22,49",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/teclado-gamer-60-retroiluminado-luz-rainbow-rgb"
         },
@@ -376,7 +376,7 @@
             "categoria": "mouse_e_teclados",
             "preco_pix": "229,90",
             "preco_num": 229.9,
-            "parcela_12x": "19,16",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/teclado-gamer-mecanico-royale-flakes-power-flktm001-elg"
         },
@@ -385,7 +385,7 @@
             "categoria": "mouse_e_teclados",
             "preco_pix": "219,00",
             "preco_num": 219,
-            "parcela_12x": "18,25",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/teclado-mecanico-gamer-rise-mode-gm1-black-rgb-switch-outemu-blue-rm-tcm-gm1-bblue"
         },
@@ -394,7 +394,7 @@
             "categoria": "mouse_e_teclados",
             "preco_pix": "139,90",
             "preco_num": 139.9,
-            "parcela_12x": "11,66",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/mouse-gamer-logitech-g102-lightsync-de-6-botoes-rgb-preto"
         },
@@ -403,7 +403,7 @@
             "categoria": "mouse_e_teclados",
             "preco_pix": "99,90",
             "preco_num": 99.9,
-            "parcela_12x": "8,33",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/teclado-mouse-wireless-k-w10bk-preto-c3"
         },
@@ -412,7 +412,7 @@
             "categoria": "mouse_e_teclados",
             "preco_pix": "85,00",
             "preco_num": 85,
-            "parcela_12x": "7,08",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/kit-teclado-sem-fio-com-mouse-bpc-527117-brazil-pc"
         },
@@ -421,7 +421,7 @@
             "categoria": "mouse_e_teclados",
             "preco_pix": "34,99",
             "preco_num": 34.99,
-            "parcela_12x": "2,92",
+            "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/teclado-rise-mode-office-com-teclado-numerico-black"
         },
