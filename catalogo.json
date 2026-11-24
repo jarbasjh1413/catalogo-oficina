@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-24T16:30:15-03:00",
-    "atualizado_br": "24/11/2026 16:30:15",
+    "atualizado_em": "2026-11-24T17:00:13-03:00",
+    "atualizado_br": "24/11/2026 17:00:13",
     "origem": "site",
     "total": 153,
-    "disponiveis": 42,
-    "esgotados": 111,
+    "disponiveis": 41,
+    "esgotados": 112,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -262,15 +262,6 @@
             "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-probook-440-g3-i7-6th-8gb-ram-240gb-ssd-sata-tela-14-hd"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL VOSTRO 3520 - I5 12TH - INTEL IRIS XE - 8GB RAM - 256GB SSD NVME - TELA 15.6 FHD 120HZ",
-            "categoria": "notebooks",
-            "preco_pix": "2.500,00",
-            "preco_num": 2500,
-            "parcela_12x": null,
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-vostro-3520-i5-12th-intel-iris-xe-8gb-ram-256gb-ssd-nvme-tela-156-fhd-120hz"
         },
         {
             "nome": "NOTEBOOK SEMINOVO HP 250 G8 - I3 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 15.6 HD",
@@ -991,6 +982,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-62gb-emmc-tela-133-fhd-touch"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B - CELERON N3450 - 4GB RAM - 120GB SSD SATA & 32GB EMMC - TELA 11.6″ TOUCH",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b-celeron-n3450-4gb-ram-120gb-ssd-sata-32gb-emmc-tela-116-touch"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
