@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-24T11:00:13-03:00",
-    "atualizado_br": "24/11/2026 11:00:13",
+    "atualizado_em": "2026-11-24T11:30:14-03:00",
+    "atualizado_br": "24/11/2026 11:30:14",
     "origem": "site",
     "total": 153,
-    "disponiveis": 42,
-    "esgotados": 111,
+    "disponiveis": 41,
+    "esgotados": 112,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -291,15 +291,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-inspiron-5557-i5-6th-geforce-930m-8gb-ram-256gb-ssd-sata-tela-156-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO HP 240 G7 - I5 10TH - INTEL UHD - 8GB RAM - 256GB SSD NVME - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "1.700,00",
-            "preco_num": 1700,
-            "parcela_12x": null,
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-240-g7-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO ASUS VIVOBOOK E410M - CELERON N4020 - 4GB RAM - 128GB SSD SATA - TELA 14 HD",
             "categoria": "notebooks",
             "preco_pix": "1.680,00",
@@ -345,15 +336,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-folio-13-2000-i5-2th-8gb-ram-128gb-ssd-tela-133-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO LG 14U380 - CELERON N4100 - 8GB RAM - 120GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "999,00",
-            "preco_num": 999,
-            "parcela_12x": null,
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lg-14u380-celeron-n4100-8gb-ram-120gb-ssd-sata-tela-14-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO ACER ASPIRE ES1-533 - CELERON N3450 - 8GB RAM - 128GB SSD SATA - TELA 15.6 HD",
             "categoria": "notebooks",
             "preco_pix": "999,00",
@@ -361,6 +343,15 @@
             "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-es1-533-celeron-n3450-8gb-ram-128gb-ssd-sata-tela-156-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO LG 14U380 - CELERON N4100 - 8GB RAM - 120GB SSD SATA - TELA 14 HD",
+            "categoria": "notebooks",
+            "preco_pix": "999,00",
+            "preco_num": 999,
+            "parcela_12x": null,
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lg-14u380-celeron-n4100-8gb-ram-120gb-ssd-sata-tela-14-hd"
         },
         {
             "nome": "DESKTOP SEMINOVO LENOVO THINKCENTRE M93 TINY - I3 4TH - INTEL HD 4400 - 8GB RAM - 128GB SSD SATA",
@@ -982,6 +973,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-31gb-emmc-tela-133-fhd-touchscreen"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE - CELERON N3450 - 4GB RAM - 62GB EMMC - TELA 13.3 FHD TOUCH",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-celeron-n3450-4gb-ram-62gb-emmc-tela-133-fhd-touch"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
