@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-25T17:00:14-03:00",
-    "atualizado_br": "25/11/2026 17:00:14",
+    "atualizado_em": "2026-11-25T17:30:13-03:00",
+    "atualizado_br": "25/11/2026 17:30:13",
     "origem": "site",
     "total": 153,
-    "disponiveis": 41,
-    "esgotados": 112,
+    "disponiveis": 40,
+    "esgotados": 113,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -56,15 +56,6 @@
         }
     ],
     "produtos": [
-        {
-            "nome": "NOTEBOOK GAMER SEMINOVO DELL G15 5530 - I5 13TH - RTX 3050 6GB - 16GB RAM DDR5 - 512GB SSD NVME - TELA 15.6 FHD 120HZ",
-            "categoria": "notebooks",
-            "preco_pix": "5.290,00",
-            "preco_num": 5290,
-            "parcela_12x": null,
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-gamer-seminovo-dell-g15-5530-i5-13th-rtx-3050-6gb-16gb-ram-ddr5-512gb-ssd-nvme-tela-156-fhd-120hz"
-        },
         {
             "nome": "NOTEBOOK SEMINOVO ASUS VIVOBOOK 15 X513 - I7 11TH - INTEL IRIS XE - 16GB RAM - 512GB SSD NVME - TELA 15.6 FHD",
             "categoria": "notebooks",
@@ -991,6 +982,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-travelmate-spin-b-celeron-n3450-4gb-ram-120gb-ssd-sata-32gb-emmc-tela-116-touch"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO SAMSUNG 350XBE - CELERON - 8GB RAM - 256GB SSD SATA - TELA 15.6″ HD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-350xbe-celeron-8gb-ram-256gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
