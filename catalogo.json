@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-25T14:00:13-03:00",
-    "atualizado_br": "25/11/2026 14:00:13",
+    "atualizado_em": "2026-11-25T14:30:13-03:00",
+    "atualizado_br": "25/11/2026 14:30:13",
     "origem": "site",
     "total": 153,
-    "disponiveis": 40,
-    "esgotados": 113,
+    "disponiveis": 41,
+    "esgotados": 112,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -354,6 +354,15 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lg-14u380-celeron-n4100-8gb-ram-120gb-ssd-sata-tela-14-hd"
         },
         {
+            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE ES1-533 - CELERON N3450 - 8GB RAM - 128GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": "999,00",
+            "preco_num": 999,
+            "parcela_12x": null,
+            "esgotado": false,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-es1-533-celeron-n3450-8gb-ram-128gb-ssd-sata-tela-156-hd"
+        },
+        {
             "nome": "TECLADO GAMER 60% RETROILUMINADO LUZ RAINBOW RGB",
             "categoria": "mouse_e_teclados",
             "preco_pix": "269,90",
@@ -415,15 +424,6 @@
             "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/teclado-rise-mode-office-com-teclado-numerico-black"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE ES1-533 - CELERON N3450 - 8GB RAM - 128GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": null,
-            "preco_num": null,
-            "parcela_12x": null,
-            "esgotado": true,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-es1-533-celeron-n3450-8gb-ram-128gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B - CELERON N3450 - 4GB RAM - 32GB EMMC + 256GB SD - TELA 11.6″ TOUCH",
