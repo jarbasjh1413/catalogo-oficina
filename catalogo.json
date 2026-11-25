@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-25T17:30:13-03:00",
-    "atualizado_br": "25/11/2026 17:30:13",
+    "atualizado_em": "2026-11-25T18:00:14-03:00",
+    "atualizado_br": "25/11/2026 18:00:14",
     "origem": "site",
     "total": 153,
-    "disponiveis": 40,
-    "esgotados": 113,
+    "disponiveis": 38,
+    "esgotados": 115,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -264,15 +264,6 @@
             "link": "https://www.oficinainformaticars.com.br/pc-gamer-seminovo-oficina-i5-9th-gtx-1050-ti-4gb-16gb-ram-240gb-ssd-sata-1tb-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3400 - I7 8TH - INTEL UHD 620 - 8GB RAM - 480GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.000,00",
-            "preco_num": 2000,
-            "parcela_12x": null,
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3400-i7-8th-intel-uhd-620-8gb-ram-480gb-ssd-sata-tela-14-hd"
-        },
-        {
             "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 320-14IKB - I3 6TH - 8GB RAM - 128GB SSD SATA - TELA 14 HD",
             "categoria": "notebooks",
             "preco_pix": "1.890,00",
@@ -345,15 +336,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lg-14u380-celeron-n4100-8gb-ram-120gb-ssd-sata-tela-14-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE ES1-533 - CELERON N3450 - 8GB RAM - 128GB SSD SATA - TELA 15.6 HD",
-            "categoria": "notebooks",
-            "preco_pix": "999,00",
-            "preco_num": 999,
-            "parcela_12x": null,
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-es1-533-celeron-n3450-8gb-ram-128gb-ssd-sata-tela-156-hd"
-        },
-        {
             "nome": "TECLADO GAMER 60% RETROILUMINADO LUZ RAINBOW RGB",
             "categoria": "mouse_e_teclados",
             "preco_pix": "269,90",
@@ -415,6 +397,15 @@
             "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/teclado-rise-mode-office-com-teclado-numerico-black"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE ES1-533 - CELERON N3450 - 8GB RAM - 128GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-es1-533-celeron-n3450-8gb-ram-128gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO ACER TRAVELMATE SPIN B - CELERON N3450 - 4GB RAM - 32GB EMMC + 256GB SD - TELA 11.6″ TOUCH",
@@ -991,6 +982,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-samsung-350xbe-celeron-8gb-ram-256gb-ssd-sata-tela-156-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO LENOVO IDEAPAD 1 - CELERON N4500 - 4GB RAM - 128GB eMMC - TELA 15.6 FHD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-1-celeron-n4500-4gb-ram-128gb-emmc-tela-156-fhd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
