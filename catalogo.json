@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-27T15:30:14-03:00",
-    "atualizado_br": "27/11/2026 15:30:14",
+    "atualizado_em": "2026-11-27T16:00:15-03:00",
+    "atualizado_br": "27/11/2026 16:00:15",
     "origem": "site",
     "total": 152,
-    "disponiveis": 37,
-    "esgotados": 115,
+    "disponiveis": 36,
+    "esgotados": 116,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -244,15 +244,6 @@
             "parcela_12x": null,
             "esgotado": false,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-thinkpad-e14-i5-10th-intel-uhd-8gb-ram-256gb-ssd-nvme-tela-14-fhd-1"
-        },
-        {
-            "nome": "NOTEBOOK SEMINOVO DELL LATITUDE 3400 - I5 8TH - INTEL UHD 620 - 16GB RAM - 256GB SSD NVME + 240GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "2.490,00",
-            "preco_num": 2490,
-            "parcela_12x": null,
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-dell-latitude-3400-i5-8th-intel-uhd-620-16gb-ram-256gb-ssd-nvme-240gb-ssd-sata-tela-14-hd"
         },
         {
             "nome": "PC GAMER SEMINOVO OFICINA - I5 9TH - GTX 1050 TI 4GB - 16GB RAM - 240GB SSD SATA + 1TB HD",
@@ -1000,6 +991,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lenovo-ideapad-310-i3-6th-8gb-ram-240gb-ssd-sata-tela-14-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO ACER ASPIRE A315-33 - CELERON N3060 - 8GB RAM - 128GB SSD SATA - TELA 15.6 HD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-a315-33-celeron-n3060-8gb-ram-128gb-ssd-sata-tela-156-hd"
         },
         {
             "nome": "MONITOR FMAXX MW21V – 21,5″ LED IPS FULL HD – 60/75 Hz – HDMI e VGA – Bivolt",
