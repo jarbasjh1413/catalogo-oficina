@@ -1,10 +1,10 @@
 {
-    "atualizado_em": "2026-11-28T08:30:14-03:00",
-    "atualizado_br": "28/11/2026 08:30:14",
+    "atualizado_em": "2026-11-28T09:00:13-03:00",
+    "atualizado_br": "28/11/2026 09:00:13",
     "origem": "site",
     "total": 152,
-    "disponiveis": 35,
-    "esgotados": 117,
+    "disponiveis": 34,
+    "esgotados": 118,
     "paginas_lidas": [
         {
             "url": "https://www.oficinainformaticars.com.br/notebooks?page=1",
@@ -300,15 +300,6 @@
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-hp-folio-13-2000-i5-2th-8gb-ram-128gb-ssd-tela-133-hd"
         },
         {
-            "nome": "NOTEBOOK SEMINOVO LG 14U380 - CELERON N4100 - 8GB RAM - 120GB SSD SATA - TELA 14 HD",
-            "categoria": "notebooks",
-            "preco_pix": "999,00",
-            "preco_num": 999,
-            "parcela_12x": null,
-            "esgotado": false,
-            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lg-14u380-celeron-n4100-8gb-ram-120gb-ssd-sata-tela-14-hd"
-        },
-        {
             "nome": "TECLADO GAMER 60% RETROILUMINADO LUZ RAINBOW RGB",
             "categoria": "mouse_e_teclados",
             "preco_pix": "269,90",
@@ -379,6 +370,15 @@
             "parcela_12x": null,
             "esgotado": true,
             "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-acer-aspire-es1-533-celeron-n3450-8gb-ram-128gb-ssd-sata-tela-156-hd"
+        },
+        {
+            "nome": "NOTEBOOK SEMINOVO LG 14U380 - CELERON N4100 - 8GB RAM - 120GB SSD SATA - TELA 14 HD",
+            "categoria": "notebooks",
+            "preco_pix": null,
+            "preco_num": null,
+            "parcela_12x": null,
+            "esgotado": true,
+            "link": "https://www.oficinainformaticars.com.br/notebook-seminovo-lg-14u380-celeron-n4100-8gb-ram-120gb-ssd-sata-tela-14-hd"
         },
         {
             "nome": "NOTEBOOK SEMINOVO VAIO VJF155 - PENTIUM 4415U - 8GB RAM - 120GB SSD SATA - TELA 15.6 HD",
